@@ -1,0 +1,5397 @@
+[
+  {
+    "id": 0,
+    "word": "anarchy",
+    "meaning": "無政府状態、無秩序"
+  },
+  {
+    "id": 1,
+    "word": "anguish",
+    "meaning": "激しい苦痛、苦悩"
+  },
+  {
+    "id": 2,
+    "word": "anorexia",
+    "meaning": "食欲不振、拒食症"
+  },
+  {
+    "id": 3,
+    "word": "anthem",
+    "meaning": "国歌、賛歌"
+  },
+  {
+    "id": 4,
+    "word": "antioxidant",
+    "meaning": "抗酸化物質"
+  },
+  {
+    "id": 5,
+    "word": "applause",
+    "meaning": "拍手、称賛"
+  },
+  {
+    "id": 6,
+    "word": "appreciative",
+    "meaning": "感謝している、鑑賞力のある"
+  },
+  {
+    "id": 7,
+    "word": "apprentice",
+    "meaning": "見習い、弟子"
+  },
+  {
+    "id": 8,
+    "word": "approximate",
+    "meaning": "おおよその、概算する"
+  },
+  {
+    "id": 9,
+    "word": "arc",
+    "meaning": "弧、円弧"
+  },
+  {
+    "id": 10,
+    "word": "archaeologist",
+    "meaning": "考古学者"
+  },
+  {
+    "id": 11,
+    "word": "arguable",
+    "meaning": "議論の余地がある"
+  },
+  {
+    "id": 12,
+    "word": "aroma",
+    "meaning": "芳香、香り"
+  },
+  {
+    "id": 13,
+    "word": "around",
+    "meaning": "周囲に、およそ"
+  },
+  {
+    "id": 14,
+    "word": "arrive",
+    "meaning": "到着する"
+  },
+  {
+    "id": 15,
+    "word": "artificially",
+    "meaning": "人工的に"
+  },
+  {
+    "id": 16,
+    "word": "artistry",
+    "meaning": "芸術的技巧"
+  },
+  {
+    "id": 17,
+    "word": "ascertain",
+    "meaning": "確かめる、突き止める"
+  },
+  {
+    "id": 18,
+    "word": "ash",
+    "meaning": "灰"
+  },
+  {
+    "id": 19,
+    "word": "associate",
+    "meaning": "関連付ける、仲間"
+  },
+  {
+    "id": 20,
+    "word": "associated",
+    "meaning": "関連した"
+  },
+  {
+    "id": 21,
+    "word": "assort",
+    "meaning": "分類する、取りそろえる"
+  },
+  {
+    "id": 22,
+    "word": "assorted",
+    "meaning": "各種の、取り混ぜた"
+  },
+  {
+    "id": 23,
+    "word": "assortment",
+    "meaning": "詰め合わせ、各種"
+  },
+  {
+    "id": 24,
+    "word": "assured",
+    "meaning": "確信している、自信のある"
+  },
+  {
+    "id": 25,
+    "word": "astronaut",
+    "meaning": "宇宙飛行士"
+  },
+  {
+    "id": 26,
+    "word": "astronomer",
+    "meaning": "天文学者"
+  },
+  {
+    "id": 27,
+    "word": "atlas",
+    "meaning": "地図帳"
+  },
+  {
+    "id": 28,
+    "word": "auction",
+    "meaning": "競売、オークション"
+  },
+  {
+    "id": 29,
+    "word": "audibly",
+    "meaning": "聞こえるように"
+  },
+  {
+    "id": 30,
+    "word": "authenticity",
+    "meaning": "真正性、本物であること"
+  },
+  {
+    "id": 31,
+    "word": "authorization",
+    "meaning": "許可、認可"
+  },
+  {
+    "id": 32,
+    "word": "autobiography",
+    "meaning": "自伝"
+  },
+  {
+    "id": 33,
+    "word": "autograph",
+    "meaning": "サイン、署名"
+  },
+  {
+    "id": 34,
+    "word": "autopsy",
+    "meaning": "検死、解剖"
+  },
+  {
+    "id": 35,
+    "word": "awkwardly",
+    "meaning": "ぎこちなく"
+  },
+  {
+    "id": 36,
+    "word": "bachelor",
+    "meaning": "独身男性、学士"
+  },
+  {
+    "id": 37,
+    "word": "bacterium",
+    "meaning": "細菌（単数形）"
+  },
+  {
+    "id": 38,
+    "word": "banishment",
+    "meaning": "追放"
+  },
+  {
+    "id": 39,
+    "word": "bank",
+    "meaning": "銀行、土手"
+  },
+  {
+    "id": 40,
+    "word": "bark",
+    "meaning": "ほえる、樹皮"
+  },
+  {
+    "id": 41,
+    "word": "barricade",
+    "meaning": "バリケード、封鎖する"
+  },
+  {
+    "id": 42,
+    "word": "bashful",
+    "meaning": "内気な"
+  },
+  {
+    "id": 43,
+    "word": "batch",
+    "meaning": "一群、一括処理"
+  },
+  {
+    "id": 44,
+    "word": "bearable",
+    "meaning": "耐えられる"
+  },
+  {
+    "id": 45,
+    "word": "before",
+    "meaning": "〜より前に"
+  },
+  {
+    "id": 46,
+    "word": "beggar",
+    "meaning": "物乞い"
+  },
+  {
+    "id": 47,
+    "word": "behavior",
+    "meaning": "行動、振る舞い"
+  },
+  {
+    "id": 48,
+    "word": "behavioral",
+    "meaning": "行動の"
+  },
+  {
+    "id": 49,
+    "word": "belongings",
+    "meaning": "所持品"
+  },
+  {
+    "id": 50,
+    "word": "bid",
+    "meaning": "入札、申し出"
+  },
+  {
+    "id": 51,
+    "word": "binding",
+    "meaning": "拘束力のある、製本"
+  },
+  {
+    "id": 52,
+    "word": "blanc",
+    "meaning": "白（フランス語）"
+  },
+  {
+    "id": 53,
+    "word": "blaze",
+    "meaning": "炎、燃え盛る"
+  },
+  {
+    "id": 54,
+    "word": "blissful",
+    "meaning": "至福の"
+  },
+  {
+    "id": 55,
+    "word": "bloc",
+    "meaning": "連合、圏"
+  },
+  {
+    "id": 56,
+    "word": "blockade",
+    "meaning": "封鎖"
+  },
+  {
+    "id": 57,
+    "word": "blueprint",
+    "meaning": "設計図、計画"
+  },
+  {
+    "id": 58,
+    "word": "blurry",
+    "meaning": "ぼやけた"
+  },
+  {
+    "id": 59,
+    "word": "boar",
+    "meaning": "イノシシ"
+  },
+  {
+    "id": 60,
+    "word": "bomber",
+    "meaning": "爆撃機、爆撃犯"
+  },
+  {
+    "id": 61,
+    "word": "boom",
+    "meaning": "急成長、轟音"
+  },
+  {
+    "id": 62,
+    "word": "botanical",
+    "meaning": "植物学の"
+  },
+  {
+    "id": 63,
+    "word": "both",
+    "meaning": "両方の"
+  },
+  {
+    "id": 64,
+    "word": "bounce",
+    "meaning": "跳ね返る"
+  },
+  {
+    "id": 65,
+    "word": "boundless",
+    "meaning": "無限の、果てしない"
+  },
+  {
+    "id": 66,
+    "word": "brace",
+    "meaning": "支える、補強具"
+  },
+  {
+    "id": 67,
+    "word": "brainwashing",
+    "meaning": "洗脳"
+  },
+  {
+    "id": 68,
+    "word": "breadth",
+    "meaning": "幅、広さ"
+  },
+  {
+    "id": 69,
+    "word": "breakout",
+    "meaning": "脱出、急激な発生"
+  },
+  {
+    "id": 70,
+    "word": "breakup",
+    "meaning": "別れ、解散"
+  },
+  {
+    "id": 71,
+    "word": "briber",
+    "meaning": "賄賂を贈る人"
+  },
+  {
+    "id": 72,
+    "word": "brisk",
+    "meaning": "活発な、きびきびした"
+  },
+  {
+    "id": 73,
+    "word": "broad",
+    "meaning": "幅広い"
+  },
+  {
+    "id": 74,
+    "word": "brochure",
+    "meaning": "パンフレット"
+  },
+  {
+    "id": 75,
+    "word": "bronze",
+    "meaning": "青銅、銅メダル"
+  },
+  {
+    "id": 76,
+    "word": "browse",
+    "meaning": "ざっと見る、閲覧する"
+  },
+  {
+    "id": 77,
+    "word": "brush",
+    "meaning": "ブラシ、磨く"
+  },
+  {
+    "id": 78,
+    "word": "bud",
+    "meaning": "つぼみ"
+  },
+  {
+    "id": 79,
+    "word": "build",
+    "meaning": "建てる、体格"
+  },
+  {
+    "id": 80,
+    "word": "bulky",
+    "meaning": "かさばる"
+  },
+  {
+    "id": 81,
+    "word": "bull",
+    "meaning": "雄牛"
+  },
+  {
+    "id": 82,
+    "word": "bulletin",
+    "meaning": "掲示、速報"
+  },
+  {
+    "id": 83,
+    "word": "bullying",
+    "meaning": "いじめ"
+  },
+  {
+    "id": 84,
+    "word": "bureau",
+    "meaning": "事務局、官庁"
+  },
+  {
+    "id": 85,
+    "word": "burial",
+    "meaning": "埋葬"
+  },
+  {
+    "id": 86,
+    "word": "burn",
+    "meaning": "燃える、燃やす"
+  },
+  {
+    "id": 87,
+    "word": "burnout",
+    "meaning": "燃え尽き症候群"
+  },
+  {
+    "id": 88,
+    "word": "burrow",
+    "meaning": "穴を掘る、巣穴"
+  },
+  {
+    "id": 89,
+    "word": "buy",
+    "meaning": "買う"
+  },
+  {
+    "id": 90,
+    "word": "buzz",
+    "meaning": "ブンブンいう音、うわさ"
+  },
+  {
+    "id": 91,
+    "word": "bystander",
+    "meaning": "傍観者"
+  },
+  {
+    "id": 92,
+    "word": "cable",
+    "meaning": "ケーブル"
+  },
+  {
+    "id": 93,
+    "word": "cactus",
+    "meaning": "サボテン"
+  },
+  {
+    "id": 94,
+    "word": "camel",
+    "meaning": "ラクダ"
+  },
+  {
+    "id": 95,
+    "word": "canal",
+    "meaning": "運河"
+  },
+  {
+    "id": 96,
+    "word": "candidate",
+    "meaning": "候補者"
+  },
+  {
+    "id": 97,
+    "word": "caption",
+    "meaning": "説明文、字幕"
+  },
+  {
+    "id": 98,
+    "word": "cardio",
+    "meaning": "有酸素運動、心臓の"
+  },
+  {
+    "id": 99,
+    "word": "careful",
+    "meaning": "注意深い"
+  },
+  {
+    "id": 100,
+    "word": "carving",
+    "meaning": "彫刻"
+  },
+  {
+    "id": 101,
+    "word": "caterpillar",
+    "meaning": "イモムシ"
+  },
+  {
+    "id": 102,
+    "word": "caution",
+    "meaning": "注意、警告"
+  },
+  {
+    "id": 103,
+    "word": "cautiously",
+    "meaning": "慎重に"
+  },
+  {
+    "id": 104,
+    "word": "ceaseless",
+    "meaning": "絶え間ない"
+  },
+  {
+    "id": 105,
+    "word": "cellular",
+    "meaning": "細胞の、携帯電話の"
+  },
+  {
+    "id": 106,
+    "word": "cemetery",
+    "meaning": "墓地"
+  },
+  {
+    "id": 107,
+    "word": "censor",
+    "meaning": "検閲する、検閲官"
+  },
+  {
+    "id": 108,
+    "word": "censorship",
+    "meaning": "検閲"
+  },
+  {
+    "id": 109,
+    "word": "centralization",
+    "meaning": "中央集権化"
+  },
+  {
+    "id": 110,
+    "word": "centralize",
+    "meaning": "中央集権化する"
+  },
+  {
+    "id": 111,
+    "word": "centralized",
+    "meaning": "中央集権化された"
+  },
+  {
+    "id": 112,
+    "word": "ceremony",
+    "meaning": "式典"
+  },
+  {
+    "id": 113,
+    "word": "certification",
+    "meaning": "認定、証明"
+  },
+  {
+    "id": 114,
+    "word": "certify",
+    "meaning": "証明する、認定する"
+  },
+  {
+    "id": 115,
+    "word": "cessation",
+    "meaning": "停止、中止"
+  },
+  {
+    "id": 116,
+    "word": "chant",
+    "meaning": "唱える、詠唱"
+  },
+  {
+    "id": 117,
+    "word": "chaotic",
+    "meaning": "混沌とした"
+  },
+  {
+    "id": 118,
+    "word": "chapel",
+    "meaning": "礼拝堂"
+  },
+  {
+    "id": 119,
+    "word": "charitable",
+    "meaning": "慈善の、寛大な"
+  },
+  {
+    "id": 120,
+    "word": "charming",
+    "meaning": "魅力的な"
+  },
+  {
+    "id": 121,
+    "word": "chase",
+    "meaning": "追いかける"
+  },
+  {
+    "id": 122,
+    "word": "chasse",
+    "meaning": "シャッセ（舞踊のステップ）"
+  },
+  {
+    "id": 123,
+    "word": "chatter",
+    "meaning": "おしゃべりする"
+  },
+  {
+    "id": 124,
+    "word": "checkup",
+    "meaning": "健康診断"
+  },
+  {
+    "id": 125,
+    "word": "chip",
+    "meaning": "小片、半導体チップ"
+  },
+  {
+    "id": 126,
+    "word": "choir",
+    "meaning": "合唱団"
+  },
+  {
+    "id": 127,
+    "word": "chronological",
+    "meaning": "年代順の"
+  },
+  {
+    "id": 128,
+    "word": "chronology",
+    "meaning": "年代順、年表"
+  },
+  {
+    "id": 129,
+    "word": "chunk",
+    "meaning": "大きな塊"
+  },
+  {
+    "id": 130,
+    "word": "circadian",
+    "meaning": "概日の、約24時間周期の"
+  },
+  {
+    "id": 131,
+    "word": "circuit",
+    "meaning": "回路、巡回路"
+  },
+  {
+    "id": 132,
+    "word": "circumspect",
+    "meaning": "用心深い"
+  },
+  {
+    "id": 133,
+    "word": "circumstantial",
+    "meaning": "状況による、詳細な"
+  },
+  {
+    "id": 134,
+    "word": "circumvent",
+    "meaning": "回避する、うまく逃れる"
+  },
+  {
+    "id": 135,
+    "word": "citation",
+    "meaning": "引用、表彰"
+  },
+  {
+    "id": 136,
+    "word": "clairvoyance",
+    "meaning": "透視力、千里眼"
+  },
+  {
+    "id": 137,
+    "word": "clamor",
+    "meaning": "騒ぎ、強い要求"
+  },
+  {
+    "id": 138,
+    "word": "clarity",
+    "meaning": "明瞭さ"
+  },
+  {
+    "id": 139,
+    "word": "classified",
+    "meaning": "機密の、分類された"
+  },
+  {
+    "id": 140,
+    "word": "classily",
+    "meaning": "上品に"
+  },
+  {
+    "id": 141,
+    "word": "clause",
+    "meaning": "条項、節"
+  },
+  {
+    "id": 142,
+    "word": "clean",
+    "meaning": "清潔な、掃除する"
+  },
+  {
+    "id": 143,
+    "word": "clerical",
+    "meaning": "事務の"
+  },
+  {
+    "id": 144,
+    "word": "clerk",
+    "meaning": "事務員、店員"
+  },
+  {
+    "id": 145,
+    "word": "clinic",
+    "meaning": "診療所"
+  },
+  {
+    "id": 146,
+    "word": "clinical",
+    "meaning": "臨床の"
+  },
+  {
+    "id": 147,
+    "word": "clinically",
+    "meaning": "臨床的に"
+  },
+  {
+    "id": 148,
+    "word": "clog",
+    "meaning": "詰まらせる"
+  },
+  {
+    "id": 149,
+    "word": "close",
+    "meaning": "閉じる、近い"
+  },
+  {
+    "id": 150,
+    "word": "closure",
+    "meaning": "閉鎖、終結"
+  },
+  {
+    "id": 151,
+    "word": "clutch",
+    "meaning": "しっかりつかむ"
+  },
+  {
+    "id": 152,
+    "word": "clutter",
+    "meaning": "散らかす、雑然としたもの"
+  },
+  {
+    "id": 153,
+    "word": "collaborate",
+    "meaning": "協力する"
+  },
+  {
+    "id": 154,
+    "word": "collaboration",
+    "meaning": "協力、共同作業"
+  },
+  {
+    "id": 155,
+    "word": "collage",
+    "meaning": "コラージュ、貼り絵"
+  },
+  {
+    "id": 156,
+    "word": "colonial",
+    "meaning": "植民地の"
+  },
+  {
+    "id": 157,
+    "word": "combat",
+    "meaning": "戦う、戦闘"
+  },
+  {
+    "id": 158,
+    "word": "combative",
+    "meaning": "好戦的な"
+  },
+  {
+    "id": 159,
+    "word": "commander",
+    "meaning": "指揮官"
+  },
+  {
+    "id": 160,
+    "word": "commemorate",
+    "meaning": "記念する"
+  },
+  {
+    "id": 161,
+    "word": "commemoration",
+    "meaning": "記念、追悼"
+  },
+  {
+    "id": 162,
+    "word": "commemorative",
+    "meaning": "記念の"
+  },
+  {
+    "id": 163,
+    "word": "commence",
+    "meaning": "開始する"
+  },
+  {
+    "id": 164,
+    "word": "commencement",
+    "meaning": "開始、卒業式"
+  },
+  {
+    "id": 165,
+    "word": "commend",
+    "meaning": "称賛する"
+  },
+  {
+    "id": 166,
+    "word": "commendable",
+    "meaning": "称賛に値する"
+  },
+  {
+    "id": 167,
+    "word": "commendation",
+    "meaning": "称賛、表彰"
+  },
+  {
+    "id": 168,
+    "word": "compartment",
+    "meaning": "区画、仕切り"
+  },
+  {
+    "id": 169,
+    "word": "compassion",
+    "meaning": "思いやり"
+  },
+  {
+    "id": 170,
+    "word": "compassionate",
+    "meaning": "思いやりのある"
+  },
+  {
+    "id": 171,
+    "word": "compelling",
+    "meaning": "説得力のある"
+  },
+  {
+    "id": 172,
+    "word": "competitor",
+    "meaning": "競争相手"
+  },
+  {
+    "id": 173,
+    "word": "compilation",
+    "meaning": "編集、コンパイル"
+  },
+  {
+    "id": 174,
+    "word": "complement",
+    "meaning": "補完する、補完物"
+  },
+  {
+    "id": 175,
+    "word": "complementary",
+    "meaning": "補完的な"
+  },
+  {
+    "id": 176,
+    "word": "complicate",
+    "meaning": "複雑にする"
+  },
+  {
+    "id": 177,
+    "word": "composed",
+    "meaning": "落ち着いた、構成された"
+  },
+  {
+    "id": 178,
+    "word": "compost",
+    "meaning": "堆肥"
+  },
+  {
+    "id": 179,
+    "word": "compress",
+    "meaning": "圧縮する"
+  },
+  {
+    "id": 180,
+    "word": "compression",
+    "meaning": "圧縮"
+  },
+  {
+    "id": 181,
+    "word": "compulsion",
+    "meaning": "強制、衝動"
+  },
+  {
+    "id": 182,
+    "word": "comrade",
+    "meaning": "仲間、同志"
+  },
+  {
+    "id": 183,
+    "word": "concealment",
+    "meaning": "隠蔽"
+  },
+  {
+    "id": 184,
+    "word": "conceited",
+    "meaning": "うぬぼれの強い"
+  },
+  {
+    "id": 185,
+    "word": "concision",
+    "meaning": "簡潔さ"
+  },
+  {
+    "id": 186,
+    "word": "conclusive",
+    "meaning": "決定的な"
+  },
+  {
+    "id": 187,
+    "word": "condensation",
+    "meaning": "凝縮、結露"
+  },
+  {
+    "id": 188,
+    "word": "condense",
+    "meaning": "凝縮する、要約する"
+  },
+  {
+    "id": 189,
+    "word": "conditional",
+    "meaning": "条件付きの"
+  },
+  {
+    "id": 190,
+    "word": "condo",
+    "meaning": "分譲マンション"
+  },
+  {
+    "id": 191,
+    "word": "consequent",
+    "meaning": "結果として生じる"
+  },
+  {
+    "id": 192,
+    "word": "conservationist",
+    "meaning": "自然保護活動家"
+  },
+  {
+    "id": 193,
+    "word": "consistently",
+    "meaning": "一貫して"
+  },
+  {
+    "id": 194,
+    "word": "console",
+    "meaning": "慰める、操作盤"
+  },
+  {
+    "id": 195,
+    "word": "consultancy",
+    "meaning": "コンサルタント業"
+  },
+  {
+    "id": 196,
+    "word": "consultation",
+    "meaning": "相談、協議"
+  },
+  {
+    "id": 197,
+    "word": "contagion",
+    "meaning": "伝染、感染"
+  },
+  {
+    "id": 198,
+    "word": "contagious",
+    "meaning": "伝染性の"
+  },
+  {
+    "id": 199,
+    "word": "contest",
+    "meaning": "競争、異議を唱える"
+  },
+  {
+    "id": 200,
+    "word": "continual",
+    "meaning": "繰り返される、絶え間ない"
+  },
+  {
+    "id": 201,
+    "word": "contrivance",
+    "meaning": "工夫、仕掛け"
+  },
+  {
+    "id": 202,
+    "word": "conventionally",
+    "meaning": "従来どおりに"
+  },
+  {
+    "id": 203,
+    "word": "convicted",
+    "meaning": "有罪判決を受けた"
+  },
+  {
+    "id": 204,
+    "word": "courthouse",
+    "meaning": "裁判所の建物"
+  },
+  {
+    "id": 205,
+    "word": "coverage",
+    "meaning": "報道、適用範囲"
+  },
+  {
+    "id": 206,
+    "word": "coward",
+    "meaning": "臆病者"
+  },
+  {
+    "id": 207,
+    "word": "cowardly",
+    "meaning": "臆病な"
+  },
+  {
+    "id": 208,
+    "word": "coworker",
+    "meaning": "同僚"
+  },
+  {
+    "id": 209,
+    "word": "cozy",
+    "meaning": "居心地のよい"
+  },
+  {
+    "id": 210,
+    "word": "crafty",
+    "meaning": "ずる賢い"
+  },
+  {
+    "id": 211,
+    "word": "cram",
+    "meaning": "詰め込む、一夜漬けする"
+  },
+  {
+    "id": 212,
+    "word": "cramp",
+    "meaning": "けいれん、窮屈にする"
+  },
+  {
+    "id": 213,
+    "word": "crave",
+    "meaning": "切望する"
+  },
+  {
+    "id": 214,
+    "word": "crawl",
+    "meaning": "はう"
+  },
+  {
+    "id": 215,
+    "word": "credibility",
+    "meaning": "信頼性"
+  },
+  {
+    "id": 216,
+    "word": "credible",
+    "meaning": "信頼できる"
+  },
+  {
+    "id": 217,
+    "word": "creditor",
+    "meaning": "債権者"
+  },
+  {
+    "id": 218,
+    "word": "crisp",
+    "meaning": "ぱりっとした、明快な"
+  },
+  {
+    "id": 219,
+    "word": "crispy",
+    "meaning": "ぱりぱりした"
+  },
+  {
+    "id": 220,
+    "word": "crocodile",
+    "meaning": "ワニ"
+  },
+  {
+    "id": 221,
+    "word": "crooked",
+    "meaning": "曲がった、不正な"
+  },
+  {
+    "id": 222,
+    "word": "crouch",
+    "meaning": "しゃがむ"
+  },
+  {
+    "id": 223,
+    "word": "crudely",
+    "meaning": "粗雑に"
+  },
+  {
+    "id": 224,
+    "word": "crumble",
+    "meaning": "崩れる、砕ける"
+  },
+  {
+    "id": 225,
+    "word": "cry",
+    "meaning": "泣く、叫ぶ"
+  },
+  {
+    "id": 226,
+    "word": "crystal",
+    "meaning": "結晶、水晶"
+  },
+  {
+    "id": 227,
+    "word": "cuisine",
+    "meaning": "料理、料理法"
+  },
+  {
+    "id": 228,
+    "word": "cult",
+    "meaning": "崇拝集団、カルト"
+  },
+  {
+    "id": 229,
+    "word": "cultivation",
+    "meaning": "栽培、育成"
+  },
+  {
+    "id": 230,
+    "word": "cunning",
+    "meaning": "ずる賢い、巧妙な"
+  },
+  {
+    "id": 231,
+    "word": "curable",
+    "meaning": "治療可能な"
+  },
+  {
+    "id": 232,
+    "word": "cursed",
+    "meaning": "呪われた"
+  },
+  {
+    "id": 233,
+    "word": "cursor",
+    "meaning": "カーソル"
+  },
+  {
+    "id": 234,
+    "word": "cursory",
+    "meaning": "大ざっぱな、ぞんざいな"
+  },
+  {
+    "id": 235,
+    "word": "curve",
+    "meaning": "曲線、曲がる"
+  },
+  {
+    "id": 236,
+    "word": "cushion",
+    "meaning": "クッション、緩衝材"
+  },
+  {
+    "id": 237,
+    "word": "custody",
+    "meaning": "保護、拘留"
+  },
+  {
+    "id": 238,
+    "word": "cutting",
+    "meaning": "切断、切り抜き"
+  },
+  {
+    "id": 239,
+    "word": "cyberspace",
+    "meaning": "サイバー空間"
+  },
+  {
+    "id": 240,
+    "word": "cynical",
+    "meaning": "冷笑的な"
+  },
+  {
+    "id": 241,
+    "word": "dagger",
+    "meaning": "短剣"
+  },
+  {
+    "id": 242,
+    "word": "dairy",
+    "meaning": "乳製品、酪農"
+  },
+  {
+    "id": 243,
+    "word": "dampen",
+    "meaning": "湿らせる、勢いを弱める"
+  },
+  {
+    "id": 244,
+    "word": "dapper",
+    "meaning": "しゃれた、身なりのよい"
+  },
+  {
+    "id": 245,
+    "word": "daring",
+    "meaning": "大胆な、勇敢な"
+  },
+  {
+    "id": 246,
+    "word": "dazed",
+    "meaning": "ぼう然とした"
+  },
+  {
+    "id": 247,
+    "word": "debatable",
+    "meaning": "議論の余地がある"
+  },
+  {
+    "id": 248,
+    "word": "debtor",
+    "meaning": "債務者"
+  },
+  {
+    "id": 249,
+    "word": "debut",
+    "meaning": "初登場、デビュー"
+  },
+  {
+    "id": 250,
+    "word": "deceitful",
+    "meaning": "不誠実な、人を欺く"
+  },
+  {
+    "id": 251,
+    "word": "decide",
+    "meaning": "決める"
+  },
+  {
+    "id": 252,
+    "word": "decision",
+    "meaning": "決定"
+  },
+  {
+    "id": 253,
+    "word": "dedicated",
+    "meaning": "献身的な、専用の"
+  },
+  {
+    "id": 254,
+    "word": "deduct",
+    "meaning": "差し引く、推論する"
+  },
+  {
+    "id": 255,
+    "word": "deem",
+    "meaning": "〜とみなす"
+  },
+  {
+    "id": 256,
+    "word": "deep",
+    "meaning": "深い"
+  },
+  {
+    "id": 257,
+    "word": "deer",
+    "meaning": "シカ"
+  },
+  {
+    "id": 258,
+    "word": "defective",
+    "meaning": "欠陥のある"
+  },
+  {
+    "id": 259,
+    "word": "deficiency",
+    "meaning": "不足、欠乏"
+  },
+  {
+    "id": 260,
+    "word": "deficient",
+    "meaning": "不足している"
+  },
+  {
+    "id": 261,
+    "word": "defined",
+    "meaning": "明確に定義された"
+  },
+  {
+    "id": 262,
+    "word": "deflate",
+    "meaning": "空気を抜く、しぼませる"
+  },
+  {
+    "id": 263,
+    "word": "deformity",
+    "meaning": "変形、奇形"
+  },
+  {
+    "id": 264,
+    "word": "dehydrated",
+    "meaning": "脱水状態の"
+  },
+  {
+    "id": 265,
+    "word": "dehydration",
+    "meaning": "脱水症状"
+  },
+  {
+    "id": 266,
+    "word": "dejected",
+    "meaning": "落胆した"
+  },
+  {
+    "id": 267,
+    "word": "deliberation",
+    "meaning": "熟考、審議"
+  },
+  {
+    "id": 268,
+    "word": "demotion",
+    "meaning": "降格"
+  },
+  {
+    "id": 269,
+    "word": "deniable",
+    "meaning": "否定できる"
+  },
+  {
+    "id": 270,
+    "word": "dent",
+    "meaning": "へこみ、へこませる"
+  },
+  {
+    "id": 271,
+    "word": "dental",
+    "meaning": "歯科の"
+  },
+  {
+    "id": 272,
+    "word": "dependable",
+    "meaning": "頼りになる"
+  },
+  {
+    "id": 273,
+    "word": "depot",
+    "meaning": "倉庫、停車場"
+  },
+  {
+    "id": 274,
+    "word": "deserted",
+    "meaning": "人のいない、見捨てられた"
+  },
+  {
+    "id": 275,
+    "word": "desperately",
+    "meaning": "必死に、ひどく"
+  },
+  {
+    "id": 276,
+    "word": "detachable",
+    "meaning": "取り外し可能な"
+  },
+  {
+    "id": 277,
+    "word": "detachment",
+    "meaning": "分離、無関心"
+  },
+  {
+    "id": 278,
+    "word": "detectable",
+    "meaning": "検出可能な"
+  },
+  {
+    "id": 279,
+    "word": "detection",
+    "meaning": "発見、検出"
+  },
+  {
+    "id": 280,
+    "word": "detention",
+    "meaning": "拘留、居残り"
+  },
+  {
+    "id": 281,
+    "word": "devour",
+    "meaning": "むさぼり食う"
+  },
+  {
+    "id": 282,
+    "word": "diagonal",
+    "meaning": "対角線の、斜めの"
+  },
+  {
+    "id": 283,
+    "word": "diagonally",
+    "meaning": "斜めに"
+  },
+  {
+    "id": 284,
+    "word": "diagram",
+    "meaning": "図表、図解"
+  },
+  {
+    "id": 285,
+    "word": "diction",
+    "meaning": "言葉遣い、発音の明瞭さ"
+  },
+  {
+    "id": 286,
+    "word": "dig",
+    "meaning": "掘る"
+  },
+  {
+    "id": 287,
+    "word": "digestive",
+    "meaning": "消化の"
+  },
+  {
+    "id": 288,
+    "word": "diligent",
+    "meaning": "勤勉な"
+  },
+  {
+    "id": 289,
+    "word": "dilute",
+    "meaning": "薄める、希釈する"
+  },
+  {
+    "id": 290,
+    "word": "dilution",
+    "meaning": "希釈"
+  },
+  {
+    "id": 291,
+    "word": "dimension",
+    "meaning": "寸法、側面"
+  },
+  {
+    "id": 292,
+    "word": "dip",
+    "meaning": "浸す、少し下がる"
+  },
+  {
+    "id": 293,
+    "word": "diploma",
+    "meaning": "卒業証書"
+  },
+  {
+    "id": 294,
+    "word": "disappointing",
+    "meaning": "期待外れの"
+  },
+  {
+    "id": 295,
+    "word": "disarm",
+    "meaning": "武装解除する"
+  },
+  {
+    "id": 296,
+    "word": "disarmament",
+    "meaning": "軍縮、武装解除"
+  },
+  {
+    "id": 297,
+    "word": "disastrous",
+    "meaning": "悲惨な"
+  },
+  {
+    "id": 298,
+    "word": "discouraging",
+    "meaning": "がっかりさせる"
+  },
+  {
+    "id": 299,
+    "word": "discredit",
+    "meaning": "信用を傷つける"
+  },
+  {
+    "id": 300,
+    "word": "discriminator",
+    "meaning": "差別する人"
+  },
+  {
+    "id": 301,
+    "word": "discriminatory",
+    "meaning": "差別的な"
+  },
+  {
+    "id": 302,
+    "word": "dislike",
+    "meaning": "嫌う、嫌悪"
+  },
+  {
+    "id": 303,
+    "word": "dislocate",
+    "meaning": "脱臼させる"
+  },
+  {
+    "id": 304,
+    "word": "dismal",
+    "meaning": "陰気な、惨めな"
+  },
+  {
+    "id": 305,
+    "word": "dismayed",
+    "meaning": "落胆した"
+  },
+  {
+    "id": 306,
+    "word": "disorderly",
+    "meaning": "無秩序な"
+  },
+  {
+    "id": 307,
+    "word": "dispatch",
+    "meaning": "発送する、派遣する"
+  },
+  {
+    "id": 308,
+    "word": "dispel",
+    "meaning": "追い払う、払拭する"
+  },
+  {
+    "id": 309,
+    "word": "dispensable",
+    "meaning": "なくても済む"
+  },
+  {
+    "id": 310,
+    "word": "displacement",
+    "meaning": "移動、立ち退き"
+  },
+  {
+    "id": 311,
+    "word": "disruption",
+    "meaning": "混乱、中断"
+  },
+  {
+    "id": 312,
+    "word": "disruptive",
+    "meaning": "混乱を引き起こす"
+  },
+  {
+    "id": 313,
+    "word": "distant",
+    "meaning": "遠い"
+  },
+  {
+    "id": 314,
+    "word": "distinction",
+    "meaning": "区別、卓越"
+  },
+  {
+    "id": 315,
+    "word": "distinctly",
+    "meaning": "明確に"
+  },
+  {
+    "id": 316,
+    "word": "distressed",
+    "meaning": "苦しんでいる"
+  },
+  {
+    "id": 317,
+    "word": "distressing",
+    "meaning": "苦痛を与える"
+  },
+  {
+    "id": 318,
+    "word": "diver",
+    "meaning": "潜水者"
+  },
+  {
+    "id": 319,
+    "word": "divinely",
+    "meaning": "神々しく"
+  },
+  {
+    "id": 320,
+    "word": "dock",
+    "meaning": "波止場"
+  },
+  {
+    "id": 321,
+    "word": "doctor",
+    "meaning": "医者、博士"
+  },
+  {
+    "id": 322,
+    "word": "dodge",
+    "meaning": "巧みに避ける"
+  },
+  {
+    "id": 323,
+    "word": "dole",
+    "meaning": "失業手当、分配する"
+  },
+  {
+    "id": 324,
+    "word": "dominance",
+    "meaning": "優勢、支配力"
+  },
+  {
+    "id": 325,
+    "word": "domination",
+    "meaning": "支配、統治"
+  },
+  {
+    "id": 326,
+    "word": "donkey",
+    "meaning": "ロバ"
+  },
+  {
+    "id": 327,
+    "word": "downturn",
+    "meaning": "景気後退、下降"
+  },
+  {
+    "id": 328,
+    "word": "doze",
+    "meaning": "うとうとする"
+  },
+  {
+    "id": 329,
+    "word": "dragon",
+    "meaning": "ドラゴン"
+  },
+  {
+    "id": 330,
+    "word": "drainage",
+    "meaning": "排水、排水設備"
+  },
+  {
+    "id": 331,
+    "word": "drastically",
+    "meaning": "劇的に、徹底的に"
+  },
+  {
+    "id": 332,
+    "word": "drawn",
+    "meaning": "引き分けの、描かれた"
+  },
+  {
+    "id": 333,
+    "word": "dream",
+    "meaning": "夢、夢を見る"
+  },
+  {
+    "id": 334,
+    "word": "drowsy",
+    "meaning": "眠気を催す"
+  },
+  {
+    "id": 335,
+    "word": "drunk",
+    "meaning": "酔った"
+  },
+  {
+    "id": 336,
+    "word": "dumping",
+    "meaning": "投棄、不当廉売"
+  },
+  {
+    "id": 337,
+    "word": "duplication",
+    "meaning": "複製、重複"
+  },
+  {
+    "id": 338,
+    "word": "durability",
+    "meaning": "耐久性"
+  },
+  {
+    "id": 339,
+    "word": "dutiful",
+    "meaning": "忠実な、義務を果たす"
+  },
+  {
+    "id": 340,
+    "word": "dynamic",
+    "meaning": "活発な、動的な"
+  },
+  {
+    "id": 341,
+    "word": "earnest",
+    "meaning": "真剣な、熱心な"
+  },
+  {
+    "id": 342,
+    "word": "earnestly",
+    "meaning": "真剣に"
+  },
+  {
+    "id": 343,
+    "word": "earthworm",
+    "meaning": "ミミズ"
+  },
+  {
+    "id": 344,
+    "word": "east",
+    "meaning": "東、東の"
+  },
+  {
+    "id": 345,
+    "word": "eat",
+    "meaning": "食べる"
+  },
+  {
+    "id": 346,
+    "word": "eccentrically",
+    "meaning": "風変わりに"
+  },
+  {
+    "id": 347,
+    "word": "eccentricity",
+    "meaning": "風変わりな性質"
+  },
+  {
+    "id": 348,
+    "word": "editorial",
+    "meaning": "社説、編集の"
+  },
+  {
+    "id": 349,
+    "word": "eel",
+    "meaning": "ウナギ"
+  },
+  {
+    "id": 350,
+    "word": "efficiently",
+    "meaning": "効率よく"
+  },
+  {
+    "id": 351,
+    "word": "eject",
+    "meaning": "追い出す、排出する"
+  },
+  {
+    "id": 352,
+    "word": "ejection",
+    "meaning": "排出、追放"
+  },
+  {
+    "id": 353,
+    "word": "elaborately",
+    "meaning": "精巧に、念入りに"
+  },
+  {
+    "id": 354,
+    "word": "elaboration",
+    "meaning": "詳細な説明"
+  },
+  {
+    "id": 355,
+    "word": "elevate",
+    "meaning": "高める、昇進させる"
+  },
+  {
+    "id": 356,
+    "word": "eligibility",
+    "meaning": "資格、適格性"
+  },
+  {
+    "id": 357,
+    "word": "eligible",
+    "meaning": "資格のある"
+  },
+  {
+    "id": 358,
+    "word": "elk",
+    "meaning": "ヘラジカ"
+  },
+  {
+    "id": 359,
+    "word": "encase",
+    "meaning": "包み込む"
+  },
+  {
+    "id": 360,
+    "word": "enclosure",
+    "meaning": "囲い、同封物"
+  },
+  {
+    "id": 361,
+    "word": "endanger",
+    "meaning": "危険にさらす"
+  },
+  {
+    "id": 362,
+    "word": "endocrine",
+    "meaning": "内分泌の"
+  },
+  {
+    "id": 363,
+    "word": "endorse",
+    "meaning": "支持する、推薦する"
+  },
+  {
+    "id": 364,
+    "word": "endorsement",
+    "meaning": "支持、推薦"
+  },
+  {
+    "id": 365,
+    "word": "endurable",
+    "meaning": "耐えられる"
+  },
+  {
+    "id": 366,
+    "word": "enforcement",
+    "meaning": "施行、強制"
+  },
+  {
+    "id": 367,
+    "word": "enlarge",
+    "meaning": "拡大する"
+  },
+  {
+    "id": 368,
+    "word": "enlist",
+    "meaning": "入隊する、協力を募る"
+  },
+  {
+    "id": 369,
+    "word": "enormously",
+    "meaning": "非常に、莫大に"
+  },
+  {
+    "id": 370,
+    "word": "enounce",
+    "meaning": "発音する、明言する"
+  },
+  {
+    "id": 371,
+    "word": "enrage",
+    "meaning": "激怒させる"
+  },
+  {
+    "id": 372,
+    "word": "enrich",
+    "meaning": "豊かにする"
+  },
+  {
+    "id": 373,
+    "word": "enrichment",
+    "meaning": "充実、豊かにすること"
+  },
+  {
+    "id": 374,
+    "word": "enthusiast",
+    "meaning": "熱心な人、愛好家"
+  },
+  {
+    "id": 375,
+    "word": "enthusiastically",
+    "meaning": "熱心に"
+  },
+  {
+    "id": 376,
+    "word": "entitlement",
+    "meaning": "権利、資格"
+  },
+  {
+    "id": 377,
+    "word": "envelop",
+    "meaning": "包む、覆う"
+  },
+  {
+    "id": 378,
+    "word": "envious",
+    "meaning": "うらやましがる"
+  },
+  {
+    "id": 379,
+    "word": "equivalence",
+    "meaning": "同等、等価"
+  },
+  {
+    "id": 380,
+    "word": "errand",
+    "meaning": "使い走り、用事"
+  },
+  {
+    "id": 381,
+    "word": "estimation",
+    "meaning": "見積もり、推定"
+  },
+  {
+    "id": 382,
+    "word": "ethnically",
+    "meaning": "民族的に"
+  },
+  {
+    "id": 383,
+    "word": "ethnicity",
+    "meaning": "民族性"
+  },
+  {
+    "id": 384,
+    "word": "excavate",
+    "meaning": "発掘する"
+  },
+  {
+    "id": 385,
+    "word": "excavation",
+    "meaning": "発掘"
+  },
+  {
+    "id": 386,
+    "word": "exceptionally",
+    "meaning": "並外れて"
+  },
+  {
+    "id": 387,
+    "word": "excerpt",
+    "meaning": "抜粋"
+  },
+  {
+    "id": 388,
+    "word": "exchange",
+    "meaning": "交換する、交換"
+  },
+  {
+    "id": 389,
+    "word": "exclamation",
+    "meaning": "感嘆、叫び声"
+  },
+  {
+    "id": 390,
+    "word": "exotic",
+    "meaning": "異国情緒のある"
+  },
+  {
+    "id": 391,
+    "word": "expend",
+    "meaning": "費やす"
+  },
+  {
+    "id": 392,
+    "word": "expensive",
+    "meaning": "高価な"
+  },
+  {
+    "id": 393,
+    "word": "expiration",
+    "meaning": "期限切れ、満了"
+  },
+  {
+    "id": 394,
+    "word": "expressway",
+    "meaning": "高速道路"
+  },
+  {
+    "id": 395,
+    "word": "extravagantly",
+    "meaning": "ぜいたくに"
+  },
+  {
+    "id": 396,
+    "word": "eyesight",
+    "meaning": "視力"
+  },
+  {
+    "id": 397,
+    "word": "facade",
+    "meaning": "建物の正面、見せかけ"
+  },
+  {
+    "id": 398,
+    "word": "facilitator",
+    "meaning": "進行役、促進者"
+  },
+  {
+    "id": 399,
+    "word": "falsification",
+    "meaning": "偽造、改ざん"
+  },
+  {
+    "id": 400,
+    "word": "falsify",
+    "meaning": "偽造する"
+  },
+  {
+    "id": 401,
+    "word": "falsity",
+    "meaning": "虚偽、誤り"
+  },
+  {
+    "id": 402,
+    "word": "familiarize",
+    "meaning": "慣れさせる"
+  },
+  {
+    "id": 403,
+    "word": "fanatic",
+    "meaning": "熱狂者"
+  },
+  {
+    "id": 404,
+    "word": "fanatical",
+    "meaning": "狂信的な"
+  },
+  {
+    "id": 405,
+    "word": "fantastic",
+    "meaning": "素晴らしい、空想的な"
+  },
+  {
+    "id": 406,
+    "word": "faraway",
+    "meaning": "遠く離れた"
+  },
+  {
+    "id": 407,
+    "word": "fascinating",
+    "meaning": "魅力的な"
+  },
+  {
+    "id": 408,
+    "word": "fatality",
+    "meaning": "死亡者、死亡事故"
+  },
+  {
+    "id": 409,
+    "word": "faulty",
+    "meaning": "欠陥のある"
+  },
+  {
+    "id": 410,
+    "word": "federation",
+    "meaning": "連邦、連盟"
+  },
+  {
+    "id": 411,
+    "word": "fiction",
+    "meaning": "小説、作り話"
+  },
+  {
+    "id": 412,
+    "word": "fictional",
+    "meaning": "架空の"
+  },
+  {
+    "id": 413,
+    "word": "fictitious",
+    "meaning": "架空の、偽りの"
+  },
+  {
+    "id": 414,
+    "word": "field",
+    "meaning": "野原、分野"
+  },
+  {
+    "id": 415,
+    "word": "fiercely",
+    "meaning": "激しく"
+  },
+  {
+    "id": 416,
+    "word": "fin",
+    "meaning": "ひれ"
+  },
+  {
+    "id": 417,
+    "word": "finale",
+    "meaning": "最終場面、フィナーレ"
+  },
+  {
+    "id": 418,
+    "word": "finish",
+    "meaning": "終える、終わり"
+  },
+  {
+    "id": 419,
+    "word": "first",
+    "meaning": "最初の"
+  },
+  {
+    "id": 420,
+    "word": "firsthand",
+    "meaning": "直接得た、じかに"
+  },
+  {
+    "id": 421,
+    "word": "flare",
+    "meaning": "燃え上がる、照明弾"
+  },
+  {
+    "id": 422,
+    "word": "fluency",
+    "meaning": "流ちょうさ"
+  },
+  {
+    "id": 423,
+    "word": "fluent",
+    "meaning": "流ちょうな"
+  },
+  {
+    "id": 424,
+    "word": "foil",
+    "meaning": "阻止する、箔"
+  },
+  {
+    "id": 425,
+    "word": "foretell",
+    "meaning": "予言する"
+  },
+  {
+    "id": 426,
+    "word": "formal",
+    "meaning": "正式な"
+  },
+  {
+    "id": 427,
+    "word": "formalize",
+    "meaning": "正式なものにする"
+  },
+  {
+    "id": 428,
+    "word": "forsake",
+    "meaning": "見捨てる"
+  },
+  {
+    "id": 429,
+    "word": "forthcoming",
+    "meaning": "間もなく来る"
+  },
+  {
+    "id": 430,
+    "word": "fountain",
+    "meaning": "噴水"
+  },
+  {
+    "id": 431,
+    "word": "fragrance",
+    "meaning": "香り"
+  },
+  {
+    "id": 432,
+    "word": "fragrant",
+    "meaning": "香りのよい"
+  },
+  {
+    "id": 433,
+    "word": "frail",
+    "meaning": "虚弱な"
+  },
+  {
+    "id": 434,
+    "word": "frailty",
+    "meaning": "もろさ、虚弱"
+  },
+  {
+    "id": 435,
+    "word": "front",
+    "meaning": "前面、前線"
+  },
+  {
+    "id": 436,
+    "word": "frost",
+    "meaning": "霜"
+  },
+  {
+    "id": 437,
+    "word": "frustrated",
+    "meaning": "いら立った"
+  },
+  {
+    "id": 438,
+    "word": "functional",
+    "meaning": "機能的な"
+  },
+  {
+    "id": 439,
+    "word": "furnished",
+    "meaning": "家具付きの"
+  },
+  {
+    "id": 440,
+    "word": "fuse",
+    "meaning": "融合する、ヒューズ"
+  },
+  {
+    "id": 441,
+    "word": "fusion",
+    "meaning": "融合"
+  },
+  {
+    "id": 442,
+    "word": "fussy",
+    "meaning": "好みがうるさい"
+  },
+  {
+    "id": 443,
+    "word": "gale",
+    "meaning": "強風"
+  },
+  {
+    "id": 444,
+    "word": "gangster",
+    "meaning": "ギャング"
+  },
+  {
+    "id": 445,
+    "word": "gargle",
+    "meaning": "うがいをする"
+  },
+  {
+    "id": 446,
+    "word": "garment",
+    "meaning": "衣服"
+  },
+  {
+    "id": 447,
+    "word": "generalization",
+    "meaning": "一般化"
+  },
+  {
+    "id": 448,
+    "word": "glare",
+    "meaning": "にらみつける、まぶしい光"
+  },
+  {
+    "id": 449,
+    "word": "gloom",
+    "meaning": "暗さ、憂うつ"
+  },
+  {
+    "id": 450,
+    "word": "glorify",
+    "meaning": "たたえる"
+  },
+  {
+    "id": 451,
+    "word": "glossary",
+    "meaning": "用語集"
+  },
+  {
+    "id": 452,
+    "word": "goods",
+    "meaning": "商品"
+  },
+  {
+    "id": 453,
+    "word": "gracious",
+    "meaning": "親切な、優雅な"
+  },
+  {
+    "id": 454,
+    "word": "gradation",
+    "meaning": "段階的変化"
+  },
+  {
+    "id": 455,
+    "word": "graduate",
+    "meaning": "卒業する、卒業生"
+  },
+  {
+    "id": 456,
+    "word": "graphic",
+    "meaning": "図形の、鮮明な"
+  },
+  {
+    "id": 457,
+    "word": "graveyard",
+    "meaning": "墓地"
+  },
+  {
+    "id": 458,
+    "word": "gravitate",
+    "meaning": "引き寄せられる"
+  },
+  {
+    "id": 459,
+    "word": "gravitational",
+    "meaning": "重力の"
+  },
+  {
+    "id": 460,
+    "word": "graze",
+    "meaning": "草を食む、かすり傷"
+  },
+  {
+    "id": 461,
+    "word": "ground",
+    "meaning": "地面、根拠"
+  },
+  {
+    "id": 462,
+    "word": "growl",
+    "meaning": "うなる"
+  },
+  {
+    "id": 463,
+    "word": "guardian",
+    "meaning": "保護者、守護者"
+  },
+  {
+    "id": 464,
+    "word": "gulp",
+    "meaning": "ごくりと飲む"
+  },
+  {
+    "id": 465,
+    "word": "gush",
+    "meaning": "噴き出す"
+  },
+  {
+    "id": 466,
+    "word": "gymnast",
+    "meaning": "体操選手"
+  },
+  {
+    "id": 467,
+    "word": "habit",
+    "meaning": "習慣"
+  },
+  {
+    "id": 468,
+    "word": "habitat",
+    "meaning": "生息地"
+  },
+  {
+    "id": 469,
+    "word": "habitual",
+    "meaning": "習慣的な"
+  },
+  {
+    "id": 470,
+    "word": "ham",
+    "meaning": "ハム"
+  },
+  {
+    "id": 471,
+    "word": "hardy",
+    "meaning": "丈夫な、耐寒性のある"
+  },
+  {
+    "id": 472,
+    "word": "hare",
+    "meaning": "野ウサギ"
+  },
+  {
+    "id": 473,
+    "word": "hat",
+    "meaning": "帽子"
+  },
+  {
+    "id": 474,
+    "word": "haunt",
+    "meaning": "たびたび訪れる、悩ませる"
+  },
+  {
+    "id": 475,
+    "word": "haunted",
+    "meaning": "幽霊の出る"
+  },
+  {
+    "id": 476,
+    "word": "heed",
+    "meaning": "注意を払う"
+  },
+  {
+    "id": 477,
+    "word": "helpful",
+    "meaning": "役に立つ"
+  },
+  {
+    "id": 478,
+    "word": "hemp",
+    "meaning": "麻、大麻繊維"
+  },
+  {
+    "id": 479,
+    "word": "herald",
+    "meaning": "先触れ、告げる"
+  },
+  {
+    "id": 480,
+    "word": "hide",
+    "meaning": "隠す"
+  },
+  {
+    "id": 481,
+    "word": "highlight",
+    "meaning": "強調する、見どころ"
+  },
+  {
+    "id": 482,
+    "word": "highway",
+    "meaning": "幹線道路"
+  },
+  {
+    "id": 483,
+    "word": "hinge",
+    "meaning": "ちょうつがい、要点"
+  },
+  {
+    "id": 484,
+    "word": "holistic",
+    "meaning": "全体論的な"
+  },
+  {
+    "id": 485,
+    "word": "holly",
+    "meaning": "ヒイラギ"
+  },
+  {
+    "id": 486,
+    "word": "hospitable",
+    "meaning": "もてなしのよい"
+  },
+  {
+    "id": 487,
+    "word": "hospital",
+    "meaning": "病院"
+  },
+  {
+    "id": 488,
+    "word": "house",
+    "meaning": "家、収容する"
+  },
+  {
+    "id": 489,
+    "word": "hover",
+    "meaning": "空中に浮かぶ"
+  },
+  {
+    "id": 490,
+    "word": "human",
+    "meaning": "人間の"
+  },
+  {
+    "id": 491,
+    "word": "humanity",
+    "meaning": "人類、人間性"
+  },
+  {
+    "id": 492,
+    "word": "humiliation",
+    "meaning": "屈辱"
+  },
+  {
+    "id": 493,
+    "word": "hump",
+    "meaning": "こぶ、隆起"
+  },
+  {
+    "id": 494,
+    "word": "hurdle",
+    "meaning": "障害、ハードル"
+  },
+  {
+    "id": 495,
+    "word": "hybrid",
+    "meaning": "混成の、雑種"
+  },
+  {
+    "id": 496,
+    "word": "hypocritical",
+    "meaning": "偽善的な"
+  },
+  {
+    "id": 497,
+    "word": "hypodermic",
+    "meaning": "皮下の"
+  },
+  {
+    "id": 498,
+    "word": "idealism",
+    "meaning": "理想主義"
+  },
+  {
+    "id": 499,
+    "word": "identifiable",
+    "meaning": "識別できる"
+  },
+  {
+    "id": 500,
+    "word": "identification",
+    "meaning": "身元確認、識別"
+  },
+  {
+    "id": 501,
+    "word": "ignoble",
+    "meaning": "卑劣な"
+  },
+  {
+    "id": 502,
+    "word": "ill",
+    "meaning": "病気の、悪い"
+  },
+  {
+    "id": 503,
+    "word": "illegally",
+    "meaning": "違法に"
+  },
+  {
+    "id": 504,
+    "word": "illegible",
+    "meaning": "判読できない"
+  },
+  {
+    "id": 505,
+    "word": "illegitimate",
+    "meaning": "不法な、非嫡出の"
+  },
+  {
+    "id": 506,
+    "word": "illiteracy",
+    "meaning": "読み書きができないこと"
+  },
+  {
+    "id": 507,
+    "word": "illogical",
+    "meaning": "非論理的な"
+  },
+  {
+    "id": 508,
+    "word": "immeasurable",
+    "meaning": "計り知れない"
+  },
+  {
+    "id": 509,
+    "word": "immediately",
+    "meaning": "すぐに"
+  },
+  {
+    "id": 510,
+    "word": "immense",
+    "meaning": "巨大な"
+  },
+  {
+    "id": 511,
+    "word": "immensely",
+    "meaning": "非常に"
+  },
+  {
+    "id": 512,
+    "word": "immerse",
+    "meaning": "浸す、没頭させる"
+  },
+  {
+    "id": 513,
+    "word": "immersion",
+    "meaning": "浸水、没頭"
+  },
+  {
+    "id": 514,
+    "word": "immigrant",
+    "meaning": "移民"
+  },
+  {
+    "id": 515,
+    "word": "immigrate",
+    "meaning": "移住する"
+  },
+  {
+    "id": 516,
+    "word": "immigration",
+    "meaning": "移住、入国"
+  },
+  {
+    "id": 517,
+    "word": "immortal",
+    "meaning": "不死の"
+  },
+  {
+    "id": 518,
+    "word": "immovable",
+    "meaning": "動かせない"
+  },
+  {
+    "id": 519,
+    "word": "impassable",
+    "meaning": "通行できない"
+  },
+  {
+    "id": 520,
+    "word": "importance",
+    "meaning": "重要性"
+  },
+  {
+    "id": 521,
+    "word": "imposing",
+    "meaning": "堂々とした、印象的な"
+  },
+  {
+    "id": 522,
+    "word": "impressively",
+    "meaning": "印象的に"
+  },
+  {
+    "id": 523,
+    "word": "improper",
+    "meaning": "不適切な"
+  },
+  {
+    "id": 524,
+    "word": "inaccurate",
+    "meaning": "不正確な"
+  },
+  {
+    "id": 525,
+    "word": "inappropriate",
+    "meaning": "不適切な"
+  },
+  {
+    "id": 526,
+    "word": "inaudible",
+    "meaning": "聞こえない"
+  },
+  {
+    "id": 527,
+    "word": "inclusive",
+    "meaning": "包括的な"
+  },
+  {
+    "id": 528,
+    "word": "inclusively",
+    "meaning": "すべて含めて"
+  },
+  {
+    "id": 529,
+    "word": "incompetent",
+    "meaning": "無能な"
+  },
+  {
+    "id": 530,
+    "word": "inconsiderate",
+    "meaning": "思いやりのない"
+  },
+  {
+    "id": 531,
+    "word": "incredibly",
+    "meaning": "信じられないほど"
+  },
+  {
+    "id": 532,
+    "word": "incurable",
+    "meaning": "不治の"
+  },
+  {
+    "id": 533,
+    "word": "indebted",
+    "meaning": "借りがある、恩義を感じる"
+  },
+  {
+    "id": 534,
+    "word": "indefinitely",
+    "meaning": "無期限に"
+  },
+  {
+    "id": 535,
+    "word": "indigestion",
+    "meaning": "消化不良"
+  },
+  {
+    "id": 536,
+    "word": "industrial",
+    "meaning": "産業の"
+  },
+  {
+    "id": 537,
+    "word": "industrialization",
+    "meaning": "工業化"
+  },
+  {
+    "id": 538,
+    "word": "industrialize",
+    "meaning": "工業化する"
+  },
+  {
+    "id": 539,
+    "word": "inefficiency",
+    "meaning": "非効率"
+  },
+  {
+    "id": 540,
+    "word": "ineligible",
+    "meaning": "資格のない"
+  },
+  {
+    "id": 541,
+    "word": "inequality",
+    "meaning": "不平等"
+  },
+  {
+    "id": 542,
+    "word": "inexpensive",
+    "meaning": "安価な"
+  },
+  {
+    "id": 543,
+    "word": "inflate",
+    "meaning": "膨らませる"
+  },
+  {
+    "id": 544,
+    "word": "inflexible",
+    "meaning": "柔軟性のない"
+  },
+  {
+    "id": 545,
+    "word": "inhospitable",
+    "meaning": "不親切な"
+  },
+  {
+    "id": 546,
+    "word": "inland",
+    "meaning": "内陸の"
+  },
+  {
+    "id": 547,
+    "word": "inn",
+    "meaning": "宿屋"
+  },
+  {
+    "id": 548,
+    "word": "innocent",
+    "meaning": "無実の、無邪気な"
+  },
+  {
+    "id": 549,
+    "word": "input",
+    "meaning": "入力、投入"
+  },
+  {
+    "id": 550,
+    "word": "insightful",
+    "meaning": "洞察力のある"
+  },
+  {
+    "id": 551,
+    "word": "insoluble",
+    "meaning": "溶けない、解決できない"
+  },
+  {
+    "id": 552,
+    "word": "inspector",
+    "meaning": "検査官"
+  },
+  {
+    "id": 553,
+    "word": "instant",
+    "meaning": "瞬間、即座の"
+  },
+  {
+    "id": 554,
+    "word": "instrumental",
+    "meaning": "役立つ、器楽の"
+  },
+  {
+    "id": 555,
+    "word": "insulting",
+    "meaning": "侮辱的な"
+  },
+  {
+    "id": 556,
+    "word": "insure",
+    "meaning": "保険をかける"
+  },
+  {
+    "id": 557,
+    "word": "intensively",
+    "meaning": "集中的に"
+  },
+  {
+    "id": 558,
+    "word": "intentional",
+    "meaning": "意図的な"
+  },
+  {
+    "id": 559,
+    "word": "intermediary",
+    "meaning": "仲介者"
+  },
+  {
+    "id": 560,
+    "word": "intermediate",
+    "meaning": "中間の"
+  },
+  {
+    "id": 561,
+    "word": "internship",
+    "meaning": "インターンシップ"
+  },
+  {
+    "id": 562,
+    "word": "intersect",
+    "meaning": "交差する"
+  },
+  {
+    "id": 563,
+    "word": "intolerable",
+    "meaning": "耐え難い"
+  },
+  {
+    "id": 564,
+    "word": "intoxicated",
+    "meaning": "酔った、中毒の"
+  },
+  {
+    "id": 565,
+    "word": "intrigued",
+    "meaning": "興味をそそられた"
+  },
+  {
+    "id": 566,
+    "word": "inventive",
+    "meaning": "独創的な"
+  },
+  {
+    "id": 567,
+    "word": "inventory",
+    "meaning": "在庫、目録"
+  },
+  {
+    "id": 568,
+    "word": "investor",
+    "meaning": "投資家"
+  },
+  {
+    "id": 569,
+    "word": "invoice",
+    "meaning": "請求書"
+  },
+  {
+    "id": 570,
+    "word": "iron",
+    "meaning": "鉄、アイロン"
+  },
+  {
+    "id": 571,
+    "word": "ironic",
+    "meaning": "皮肉な"
+  },
+  {
+    "id": 572,
+    "word": "irreversible",
+    "meaning": "元に戻せない"
+  },
+  {
+    "id": 573,
+    "word": "irritation",
+    "meaning": "いら立ち、刺激"
+  },
+  {
+    "id": 574,
+    "word": "isolated",
+    "meaning": "孤立した"
+  },
+  {
+    "id": 575,
+    "word": "isolation",
+    "meaning": "孤立、隔離"
+  },
+  {
+    "id": 576,
+    "word": "iterate",
+    "meaning": "繰り返す"
+  },
+  {
+    "id": 577,
+    "word": "itinerary",
+    "meaning": "旅程"
+  },
+  {
+    "id": 578,
+    "word": "justifiable",
+    "meaning": "正当化できる"
+  },
+  {
+    "id": 579,
+    "word": "justified",
+    "meaning": "正当な、もっともな"
+  },
+  {
+    "id": 580,
+    "word": "kick",
+    "meaning": "蹴る"
+  },
+  {
+    "id": 581,
+    "word": "kickback",
+    "meaning": "リベート、反動"
+  },
+  {
+    "id": 582,
+    "word": "kickoff",
+    "meaning": "開始、キックオフ"
+  },
+  {
+    "id": 583,
+    "word": "kidnap",
+    "meaning": "誘拐する"
+  },
+  {
+    "id": 584,
+    "word": "kidnapper",
+    "meaning": "誘拐犯"
+  },
+  {
+    "id": 585,
+    "word": "kidnapping",
+    "meaning": "誘拐"
+  },
+  {
+    "id": 586,
+    "word": "knot",
+    "meaning": "結び目"
+  },
+  {
+    "id": 587,
+    "word": "knowledgeable",
+    "meaning": "知識が豊富な"
+  },
+  {
+    "id": 588,
+    "word": "landfill",
+    "meaning": "ごみ埋立地"
+  },
+  {
+    "id": 589,
+    "word": "landlord",
+    "meaning": "家主"
+  },
+  {
+    "id": 590,
+    "word": "landscaper",
+    "meaning": "造園業者"
+  },
+  {
+    "id": 591,
+    "word": "laptop",
+    "meaning": "ノートパソコン"
+  },
+  {
+    "id": 592,
+    "word": "lease",
+    "meaning": "賃貸借、貸す"
+  },
+  {
+    "id": 593,
+    "word": "leftover",
+    "meaning": "残り物"
+  },
+  {
+    "id": 594,
+    "word": "legislator",
+    "meaning": "議員、立法者"
+  },
+  {
+    "id": 595,
+    "word": "leprosy",
+    "meaning": "ハンセン病"
+  },
+  {
+    "id": 596,
+    "word": "less",
+    "meaning": "より少ない"
+  },
+  {
+    "id": 597,
+    "word": "license",
+    "meaning": "免許、許可する"
+  },
+  {
+    "id": 598,
+    "word": "likelihood",
+    "meaning": "可能性"
+  },
+  {
+    "id": 599,
+    "word": "likeness",
+    "meaning": "類似、似顔絵"
+  },
+  {
+    "id": 600,
+    "word": "likewise",
+    "meaning": "同様に"
+  },
+  {
+    "id": 601,
+    "word": "limestone",
+    "meaning": "石灰岩"
+  },
+  {
+    "id": 602,
+    "word": "limitation",
+    "meaning": "制限、限界"
+  },
+  {
+    "id": 603,
+    "word": "livelihood",
+    "meaning": "生計"
+  },
+  {
+    "id": 604,
+    "word": "livestock",
+    "meaning": "家畜"
+  },
+  {
+    "id": 605,
+    "word": "lizard",
+    "meaning": "トカゲ"
+  },
+  {
+    "id": 606,
+    "word": "lobby",
+    "meaning": "ロビー、働きかける"
+  },
+  {
+    "id": 607,
+    "word": "lobbyist",
+    "meaning": "ロビイスト"
+  },
+  {
+    "id": 608,
+    "word": "locomotive",
+    "meaning": "機関車"
+  },
+  {
+    "id": 609,
+    "word": "logging",
+    "meaning": "伐採"
+  },
+  {
+    "id": 610,
+    "word": "longevity",
+    "meaning": "長寿"
+  },
+  {
+    "id": 611,
+    "word": "loyally",
+    "meaning": "忠実に"
+  },
+  {
+    "id": 612,
+    "word": "luck",
+    "meaning": "運、幸運"
+  },
+  {
+    "id": 613,
+    "word": "magnificent",
+    "meaning": "壮大な、見事な"
+  },
+  {
+    "id": 614,
+    "word": "mainly",
+    "meaning": "主に"
+  },
+  {
+    "id": 615,
+    "word": "mainstream",
+    "meaning": "主流"
+  },
+  {
+    "id": 616,
+    "word": "maintain",
+    "meaning": "維持する"
+  },
+  {
+    "id": 617,
+    "word": "majestic",
+    "meaning": "威厳のある"
+  },
+  {
+    "id": 618,
+    "word": "majesty",
+    "meaning": "威厳、陛下"
+  },
+  {
+    "id": 619,
+    "word": "makeup",
+    "meaning": "化粧、構成"
+  },
+  {
+    "id": 620,
+    "word": "malnutrition",
+    "meaning": "栄養失調"
+  },
+  {
+    "id": 621,
+    "word": "manic",
+    "meaning": "躁状態の、熱狂的な"
+  },
+  {
+    "id": 622,
+    "word": "manufacturing",
+    "meaning": "製造業"
+  },
+  {
+    "id": 623,
+    "word": "maple",
+    "meaning": "カエデ"
+  },
+  {
+    "id": 624,
+    "word": "martial",
+    "meaning": "武道の、軍事の"
+  },
+  {
+    "id": 625,
+    "word": "masterpiece",
+    "meaning": "傑作"
+  },
+  {
+    "id": 626,
+    "word": "mat",
+    "meaning": "敷物"
+  },
+  {
+    "id": 627,
+    "word": "materialistic",
+    "meaning": "物質主義的な"
+  },
+  {
+    "id": 628,
+    "word": "mating",
+    "meaning": "交尾、繁殖"
+  },
+  {
+    "id": 629,
+    "word": "maximal",
+    "meaning": "最大限の"
+  },
+  {
+    "id": 630,
+    "word": "mediate",
+    "meaning": "仲裁する"
+  },
+  {
+    "id": 631,
+    "word": "mediator",
+    "meaning": "仲裁者"
+  },
+  {
+    "id": 632,
+    "word": "mellow",
+    "meaning": "穏やかな、熟した"
+  },
+  {
+    "id": 633,
+    "word": "memoir",
+    "meaning": "回顧録"
+  },
+  {
+    "id": 634,
+    "word": "merciless",
+    "meaning": "無慈悲な"
+  },
+  {
+    "id": 635,
+    "word": "mild",
+    "meaning": "穏やかな、軽い"
+  },
+  {
+    "id": 636,
+    "word": "miner",
+    "meaning": "鉱山労働者"
+  },
+  {
+    "id": 637,
+    "word": "mingle",
+    "meaning": "混ざり合う"
+  },
+  {
+    "id": 638,
+    "word": "mini",
+    "meaning": "小型の"
+  },
+  {
+    "id": 639,
+    "word": "miniature",
+    "meaning": "小型模型"
+  },
+  {
+    "id": 640,
+    "word": "minimal",
+    "meaning": "最小限の"
+  },
+  {
+    "id": 641,
+    "word": "minimally",
+    "meaning": "最小限に"
+  },
+  {
+    "id": 642,
+    "word": "minting",
+    "meaning": "鋳造"
+  },
+  {
+    "id": 643,
+    "word": "miscellaneous",
+    "meaning": "雑多な"
+  },
+  {
+    "id": 644,
+    "word": "mischief",
+    "meaning": "いたずら"
+  },
+  {
+    "id": 645,
+    "word": "mislead",
+    "meaning": "誤解させる"
+  },
+  {
+    "id": 646,
+    "word": "mobile",
+    "meaning": "移動可能な、携帯電話"
+  },
+  {
+    "id": 647,
+    "word": "mobility",
+    "meaning": "移動性"
+  },
+  {
+    "id": 648,
+    "word": "mobilize",
+    "meaning": "動員する"
+  },
+  {
+    "id": 649,
+    "word": "modest",
+    "meaning": "控えめな、謙虚な"
+  },
+  {
+    "id": 650,
+    "word": "moisten",
+    "meaning": "湿らせる"
+  },
+  {
+    "id": 651,
+    "word": "mold",
+    "meaning": "かび、型"
+  },
+  {
+    "id": 652,
+    "word": "momentary",
+    "meaning": "一時的な"
+  },
+  {
+    "id": 653,
+    "word": "monarchy",
+    "meaning": "君主制"
+  },
+  {
+    "id": 654,
+    "word": "monitor",
+    "meaning": "監視する、モニター"
+  },
+  {
+    "id": 655,
+    "word": "monotone",
+    "meaning": "単調な調子"
+  },
+  {
+    "id": 656,
+    "word": "monumental",
+    "meaning": "記念碑的な、非常に大きな"
+  },
+  {
+    "id": 657,
+    "word": "more",
+    "meaning": "もっと多くの"
+  },
+  {
+    "id": 658,
+    "word": "mosquito",
+    "meaning": "蚊"
+  },
+  {
+    "id": 659,
+    "word": "moss",
+    "meaning": "コケ"
+  },
+  {
+    "id": 660,
+    "word": "moth",
+    "meaning": "ガ"
+  },
+  {
+    "id": 661,
+    "word": "motorway",
+    "meaning": "高速道路"
+  },
+  {
+    "id": 662,
+    "word": "mournful",
+    "meaning": "悲しみに満ちた"
+  },
+  {
+    "id": 663,
+    "word": "movable",
+    "meaning": "動かせる"
+  },
+  {
+    "id": 664,
+    "word": "mud",
+    "meaning": "泥"
+  },
+  {
+    "id": 665,
+    "word": "muddy",
+    "meaning": "泥だらけの"
+  },
+  {
+    "id": 666,
+    "word": "mule",
+    "meaning": "ラバ"
+  },
+  {
+    "id": 667,
+    "word": "mutuality",
+    "meaning": "相互関係"
+  },
+  {
+    "id": 668,
+    "word": "mutually",
+    "meaning": "互いに"
+  },
+  {
+    "id": 669,
+    "word": "narrowly",
+    "meaning": "かろうじて"
+  },
+  {
+    "id": 670,
+    "word": "nationalize",
+    "meaning": "国有化する"
+  },
+  {
+    "id": 671,
+    "word": "navigate",
+    "meaning": "航行する、道を見つける"
+  },
+  {
+    "id": 672,
+    "word": "negotiable",
+    "meaning": "交渉可能な"
+  },
+  {
+    "id": 673,
+    "word": "nervous",
+    "meaning": "緊張した"
+  },
+  {
+    "id": 674,
+    "word": "noble",
+    "meaning": "高潔な、貴族の"
+  },
+  {
+    "id": 675,
+    "word": "nominate",
+    "meaning": "指名する"
+  },
+  {
+    "id": 676,
+    "word": "nomination",
+    "meaning": "指名、推薦"
+  },
+  {
+    "id": 677,
+    "word": "nominee",
+    "meaning": "候補者、被指名者"
+  },
+  {
+    "id": 678,
+    "word": "nostril",
+    "meaning": "鼻の穴"
+  },
+  {
+    "id": 679,
+    "word": "nosy",
+    "meaning": "詮索好きな"
+  },
+  {
+    "id": 680,
+    "word": "note",
+    "meaning": "メモ、注意する"
+  },
+  {
+    "id": 681,
+    "word": "noticeably",
+    "meaning": "著しく"
+  },
+  {
+    "id": 682,
+    "word": "notification",
+    "meaning": "通知"
+  },
+  {
+    "id": 683,
+    "word": "notify",
+    "meaning": "知らせる"
+  },
+  {
+    "id": 684,
+    "word": "numb",
+    "meaning": "感覚のない、しびれた"
+  },
+  {
+    "id": 685,
+    "word": "numeral",
+    "meaning": "数字、数詞"
+  },
+  {
+    "id": 686,
+    "word": "nursery",
+    "meaning": "保育園、苗床"
+  },
+  {
+    "id": 687,
+    "word": "nutritional",
+    "meaning": "栄養の"
+  },
+  {
+    "id": 688,
+    "word": "objectively",
+    "meaning": "客観的に"
+  },
+  {
+    "id": 689,
+    "word": "obligate",
+    "meaning": "義務づける"
+  },
+  {
+    "id": 690,
+    "word": "observant",
+    "meaning": "観察力の鋭い"
+  },
+  {
+    "id": 691,
+    "word": "obsessed",
+    "meaning": "取りつかれた"
+  },
+  {
+    "id": 692,
+    "word": "occupancy",
+    "meaning": "占有、入居率"
+  },
+  {
+    "id": 693,
+    "word": "odor",
+    "meaning": "におい"
+  },
+  {
+    "id": 694,
+    "word": "offset",
+    "meaning": "相殺する"
+  },
+  {
+    "id": 695,
+    "word": "ongoing",
+    "meaning": "進行中の"
+  },
+  {
+    "id": 696,
+    "word": "optimist",
+    "meaning": "楽観主義者"
+  },
+  {
+    "id": 697,
+    "word": "originator",
+    "meaning": "創始者"
+  },
+  {
+    "id": 698,
+    "word": "ornamental",
+    "meaning": "装飾用の"
+  },
+  {
+    "id": 699,
+    "word": "orthodox",
+    "meaning": "正統派の"
+  },
+  {
+    "id": 700,
+    "word": "outburst",
+    "meaning": "爆発、突然の感情表出"
+  },
+  {
+    "id": 701,
+    "word": "outlet",
+    "meaning": "出口、販売店"
+  },
+  {
+    "id": 702,
+    "word": "outlive",
+    "meaning": "より長生きする"
+  },
+  {
+    "id": 703,
+    "word": "outpace",
+    "meaning": "追い越す、上回る"
+  },
+  {
+    "id": 704,
+    "word": "outset",
+    "meaning": "初め、開始"
+  },
+  {
+    "id": 705,
+    "word": "outsmart",
+    "meaning": "出し抜く"
+  },
+  {
+    "id": 706,
+    "word": "outsource",
+    "meaning": "外部委託する"
+  },
+  {
+    "id": 707,
+    "word": "outstanding",
+    "meaning": "傑出した、未払いの"
+  },
+  {
+    "id": 708,
+    "word": "overcast",
+    "meaning": "曇った"
+  },
+  {
+    "id": 709,
+    "word": "overfishing",
+    "meaning": "乱獲"
+  },
+  {
+    "id": 710,
+    "word": "overlap",
+    "meaning": "重なる"
+  },
+  {
+    "id": 711,
+    "word": "overload",
+    "meaning": "過負荷にする"
+  },
+  {
+    "id": 712,
+    "word": "overpower",
+    "meaning": "圧倒する"
+  },
+  {
+    "id": 713,
+    "word": "overrate",
+    "meaning": "過大評価する"
+  },
+  {
+    "id": 714,
+    "word": "owl",
+    "meaning": "フクロウ"
+  },
+  {
+    "id": 715,
+    "word": "oyster",
+    "meaning": "カキ"
+  },
+  {
+    "id": 716,
+    "word": "panorama",
+    "meaning": "全景、パノラマ"
+  },
+  {
+    "id": 717,
+    "word": "paraphrase",
+    "meaning": "言い換える"
+  },
+  {
+    "id": 718,
+    "word": "parrot",
+    "meaning": "オウム"
+  },
+  {
+    "id": 719,
+    "word": "partially",
+    "meaning": "部分的に"
+  },
+  {
+    "id": 720,
+    "word": "participant",
+    "meaning": "参加者"
+  },
+  {
+    "id": 721,
+    "word": "partition",
+    "meaning": "仕切り、分割する"
+  },
+  {
+    "id": 722,
+    "word": "passable",
+    "meaning": "まずまずの、通行可能な"
+  },
+  {
+    "id": 723,
+    "word": "pastime",
+    "meaning": "娯楽、気晴らし"
+  },
+  {
+    "id": 724,
+    "word": "pasture",
+    "meaning": "牧草地"
+  },
+  {
+    "id": 725,
+    "word": "pathetic",
+    "meaning": "哀れな、ひどい"
+  },
+  {
+    "id": 726,
+    "word": "pavilion",
+    "meaning": "展示館、東屋"
+  },
+  {
+    "id": 727,
+    "word": "paycheck",
+    "meaning": "給料、小切手"
+  },
+  {
+    "id": 728,
+    "word": "pending",
+    "meaning": "保留中の"
+  },
+  {
+    "id": 729,
+    "word": "perch",
+    "meaning": "止まり木、とまる"
+  },
+  {
+    "id": 730,
+    "word": "permanently",
+    "meaning": "永久に"
+  },
+  {
+    "id": 731,
+    "word": "perpetuity",
+    "meaning": "永続、永久"
+  },
+  {
+    "id": 732,
+    "word": "petition",
+    "meaning": "請願、嘆願"
+  },
+  {
+    "id": 733,
+    "word": "phobia",
+    "meaning": "恐怖症"
+  },
+  {
+    "id": 734,
+    "word": "phonetic",
+    "meaning": "音声の、発音の"
+  },
+  {
+    "id": 735,
+    "word": "phrase",
+    "meaning": "句、言い回し"
+  },
+  {
+    "id": 736,
+    "word": "piece",
+    "meaning": "一片、作品"
+  },
+  {
+    "id": 737,
+    "word": "pierce",
+    "meaning": "突き刺す"
+  },
+  {
+    "id": 738,
+    "word": "pig",
+    "meaning": "ブタ"
+  },
+  {
+    "id": 739,
+    "word": "pillar",
+    "meaning": "柱、支柱"
+  },
+  {
+    "id": 740,
+    "word": "pinch",
+    "meaning": "つまむ、ひとつまみ"
+  },
+  {
+    "id": 741,
+    "word": "pine",
+    "meaning": "マツ"
+  },
+  {
+    "id": 742,
+    "word": "pioneer",
+    "meaning": "先駆者、開拓する"
+  },
+  {
+    "id": 743,
+    "word": "pioneering",
+    "meaning": "先駆的な"
+  },
+  {
+    "id": 744,
+    "word": "piracy",
+    "meaning": "海賊行為"
+  },
+  {
+    "id": 745,
+    "word": "pirate",
+    "meaning": "海賊"
+  },
+  {
+    "id": 746,
+    "word": "pitiful",
+    "meaning": "哀れな"
+  },
+  {
+    "id": 747,
+    "word": "plenty",
+    "meaning": "たくさん"
+  },
+  {
+    "id": 748,
+    "word": "pluck",
+    "meaning": "引き抜く、勇気"
+  },
+  {
+    "id": 749,
+    "word": "plumbing",
+    "meaning": "配管設備"
+  },
+  {
+    "id": 750,
+    "word": "plural",
+    "meaning": "複数形の"
+  },
+  {
+    "id": 751,
+    "word": "politeness",
+    "meaning": "礼儀正しさ"
+  },
+  {
+    "id": 752,
+    "word": "pore",
+    "meaning": "毛穴、じっと見る"
+  },
+  {
+    "id": 753,
+    "word": "portrait",
+    "meaning": "肖像画"
+  },
+  {
+    "id": 754,
+    "word": "portray",
+    "meaning": "描写する"
+  },
+  {
+    "id": 755,
+    "word": "portrayal",
+    "meaning": "描写"
+  },
+  {
+    "id": 756,
+    "word": "possessive",
+    "meaning": "所有欲の強い"
+  },
+  {
+    "id": 757,
+    "word": "potentially",
+    "meaning": "潜在的に"
+  },
+  {
+    "id": 758,
+    "word": "potter",
+    "meaning": "陶芸家"
+  },
+  {
+    "id": 759,
+    "word": "pottery",
+    "meaning": "陶器"
+  },
+  {
+    "id": 760,
+    "word": "precaution",
+    "meaning": "予防措置"
+  },
+  {
+    "id": 761,
+    "word": "preceding",
+    "meaning": "先行する"
+  },
+  {
+    "id": 762,
+    "word": "preconceived",
+    "meaning": "先入観のある"
+  },
+  {
+    "id": 763,
+    "word": "precondition",
+    "meaning": "前提条件"
+  },
+  {
+    "id": 764,
+    "word": "predate",
+    "meaning": "より前に起こる"
+  },
+  {
+    "id": 765,
+    "word": "predecessor",
+    "meaning": "前任者"
+  },
+  {
+    "id": 766,
+    "word": "prejudice",
+    "meaning": "偏見"
+  },
+  {
+    "id": 767,
+    "word": "premium",
+    "meaning": "割増料金、高級な"
+  },
+  {
+    "id": 768,
+    "word": "preservative",
+    "meaning": "保存料"
+  },
+  {
+    "id": 769,
+    "word": "prioritize",
+    "meaning": "優先する"
+  },
+  {
+    "id": 770,
+    "word": "privatization",
+    "meaning": "民営化"
+  },
+  {
+    "id": 771,
+    "word": "privatize",
+    "meaning": "民営化する"
+  },
+  {
+    "id": 772,
+    "word": "probability",
+    "meaning": "確率"
+  },
+  {
+    "id": 773,
+    "word": "problematic",
+    "meaning": "問題のある"
+  },
+  {
+    "id": 774,
+    "word": "procession",
+    "meaning": "行列、行進"
+  },
+  {
+    "id": 775,
+    "word": "proclamation",
+    "meaning": "宣言、布告"
+  },
+  {
+    "id": 776,
+    "word": "profess",
+    "meaning": "公言する"
+  },
+  {
+    "id": 777,
+    "word": "prologue",
+    "meaning": "序章"
+  },
+  {
+    "id": 778,
+    "word": "promotional",
+    "meaning": "販売促進の"
+  },
+  {
+    "id": 779,
+    "word": "proportional",
+    "meaning": "比例した"
+  },
+  {
+    "id": 780,
+    "word": "propulsion",
+    "meaning": "推進力"
+  },
+  {
+    "id": 781,
+    "word": "protect",
+    "meaning": "守る"
+  },
+  {
+    "id": 782,
+    "word": "protection",
+    "meaning": "保護"
+  },
+  {
+    "id": 783,
+    "word": "protective",
+    "meaning": "保護する"
+  },
+  {
+    "id": 784,
+    "word": "provocation",
+    "meaning": "挑発"
+  },
+  {
+    "id": 785,
+    "word": "publicity",
+    "meaning": "宣伝、知名度"
+  },
+  {
+    "id": 786,
+    "word": "publicize",
+    "meaning": "公表する"
+  },
+  {
+    "id": 787,
+    "word": "pulse",
+    "meaning": "脈拍、鼓動"
+  },
+  {
+    "id": 788,
+    "word": "punctuality",
+    "meaning": "時間厳守"
+  },
+  {
+    "id": 789,
+    "word": "qualified",
+    "meaning": "資格のある"
+  },
+  {
+    "id": 790,
+    "word": "quest",
+    "meaning": "探求"
+  },
+  {
+    "id": 791,
+    "word": "question",
+    "meaning": "質問する、疑問"
+  },
+  {
+    "id": 792,
+    "word": "questionable",
+    "meaning": "疑わしい"
+  },
+  {
+    "id": 793,
+    "word": "quote",
+    "meaning": "引用する"
+  },
+  {
+    "id": 794,
+    "word": "radical",
+    "meaning": "急進的な、根本的な"
+  },
+  {
+    "id": 795,
+    "word": "radioactivity",
+    "meaning": "放射能"
+  },
+  {
+    "id": 796,
+    "word": "rainfall",
+    "meaning": "降雨量"
+  },
+  {
+    "id": 797,
+    "word": "ram",
+    "meaning": "雄羊、突き当たる"
+  },
+  {
+    "id": 798,
+    "word": "ranger",
+    "meaning": "森林警備員"
+  },
+  {
+    "id": 799,
+    "word": "rapidity",
+    "meaning": "速さ、迅速さ"
+  },
+  {
+    "id": 800,
+    "word": "rating",
+    "meaning": "評価、格付け"
+  },
+  {
+    "id": 801,
+    "word": "readable",
+    "meaning": "読みやすい"
+  },
+  {
+    "id": 802,
+    "word": "rebound",
+    "meaning": "跳ね返る、回復する"
+  },
+  {
+    "id": 803,
+    "word": "recess",
+    "meaning": "休憩、くぼみ"
+  },
+  {
+    "id": 804,
+    "word": "recognizable",
+    "meaning": "認識できる"
+  },
+  {
+    "id": 805,
+    "word": "recollection",
+    "meaning": "回想、記憶"
+  },
+  {
+    "id": 806,
+    "word": "reconciliation",
+    "meaning": "和解"
+  },
+  {
+    "id": 807,
+    "word": "recreation",
+    "meaning": "娯楽、再創造"
+  },
+  {
+    "id": 808,
+    "word": "recruitment",
+    "meaning": "募集、採用"
+  },
+  {
+    "id": 809,
+    "word": "redundancy",
+    "meaning": "余剰、冗長性"
+  },
+  {
+    "id": 810,
+    "word": "referee",
+    "meaning": "審判"
+  },
+  {
+    "id": 811,
+    "word": "referral",
+    "meaning": "紹介、委託"
+  },
+  {
+    "id": 812,
+    "word": "refinement",
+    "meaning": "洗練、精製"
+  },
+  {
+    "id": 813,
+    "word": "reflex",
+    "meaning": "反射作用"
+  },
+  {
+    "id": 814,
+    "word": "refund",
+    "meaning": "払い戻し"
+  },
+  {
+    "id": 815,
+    "word": "registration",
+    "meaning": "登録"
+  },
+  {
+    "id": 816,
+    "word": "rehearsal",
+    "meaning": "リハーサル"
+  },
+  {
+    "id": 817,
+    "word": "rehearse",
+    "meaning": "リハーサルをする"
+  },
+  {
+    "id": 818,
+    "word": "reindeer",
+    "meaning": "トナカイ"
+  },
+  {
+    "id": 819,
+    "word": "relatively",
+    "meaning": "比較的"
+  },
+  {
+    "id": 820,
+    "word": "relaxed",
+    "meaning": "くつろいだ"
+  },
+  {
+    "id": 821,
+    "word": "relay",
+    "meaning": "中継する、リレー"
+  },
+  {
+    "id": 822,
+    "word": "reliably",
+    "meaning": "確実に"
+  },
+  {
+    "id": 823,
+    "word": "relic",
+    "meaning": "遺物"
+  },
+  {
+    "id": 824,
+    "word": "relocate",
+    "meaning": "移転する"
+  },
+  {
+    "id": 825,
+    "word": "relocation",
+    "meaning": "移転"
+  },
+  {
+    "id": 826,
+    "word": "remainder",
+    "meaning": "残り、余り"
+  },
+  {
+    "id": 827,
+    "word": "remarkably",
+    "meaning": "著しく"
+  },
+  {
+    "id": 828,
+    "word": "reminder",
+    "meaning": "思い出させるもの"
+  },
+  {
+    "id": 829,
+    "word": "remodel",
+    "meaning": "改造する"
+  },
+  {
+    "id": 830,
+    "word": "renew",
+    "meaning": "更新する"
+  },
+  {
+    "id": 831,
+    "word": "renewable",
+    "meaning": "再生可能な"
+  },
+  {
+    "id": 832,
+    "word": "renewal",
+    "meaning": "更新、再開"
+  },
+  {
+    "id": 833,
+    "word": "renovation",
+    "meaning": "改修"
+  },
+  {
+    "id": 834,
+    "word": "reprimand",
+    "meaning": "叱責する"
+  },
+  {
+    "id": 835,
+    "word": "reproductive",
+    "meaning": "生殖の"
+  },
+  {
+    "id": 836,
+    "word": "resentful",
+    "meaning": "憤慨した"
+  },
+  {
+    "id": 837,
+    "word": "residency",
+    "meaning": "居住、研修医の勤務"
+  },
+  {
+    "id": 838,
+    "word": "resign",
+    "meaning": "辞職する"
+  },
+  {
+    "id": 839,
+    "word": "resin",
+    "meaning": "樹脂"
+  },
+  {
+    "id": 840,
+    "word": "resist",
+    "meaning": "抵抗する"
+  },
+  {
+    "id": 841,
+    "word": "resistible",
+    "meaning": "抵抗可能な"
+  },
+  {
+    "id": 842,
+    "word": "restriction",
+    "meaning": "制限"
+  },
+  {
+    "id": 843,
+    "word": "resumption",
+    "meaning": "再開"
+  },
+  {
+    "id": 844,
+    "word": "retrace",
+    "meaning": "足跡をたどる"
+  },
+  {
+    "id": 845,
+    "word": "reversible",
+    "meaning": "逆にできる"
+  },
+  {
+    "id": 846,
+    "word": "revolve",
+    "meaning": "回転する"
+  },
+  {
+    "id": 847,
+    "word": "rhetorical",
+    "meaning": "修辞的な"
+  },
+  {
+    "id": 848,
+    "word": "rhinoceros",
+    "meaning": "サイ"
+  },
+  {
+    "id": 849,
+    "word": "righteous",
+    "meaning": "正義の、正しい"
+  },
+  {
+    "id": 850,
+    "word": "rigidity",
+    "meaning": "硬直、厳格さ"
+  },
+  {
+    "id": 851,
+    "word": "ripen",
+    "meaning": "熟す"
+  },
+  {
+    "id": 852,
+    "word": "rite",
+    "meaning": "儀式"
+  },
+  {
+    "id": 853,
+    "word": "rival",
+    "meaning": "競争相手"
+  },
+  {
+    "id": 854,
+    "word": "rivalry",
+    "meaning": "競争関係"
+  },
+  {
+    "id": 855,
+    "word": "roster",
+    "meaning": "名簿"
+  },
+  {
+    "id": 856,
+    "word": "routinely",
+    "meaning": "日常的に"
+  },
+  {
+    "id": 857,
+    "word": "rudeness",
+    "meaning": "無礼"
+  },
+  {
+    "id": 858,
+    "word": "rust",
+    "meaning": "さび"
+  },
+  {
+    "id": 859,
+    "word": "rusty",
+    "meaning": "さびた"
+  },
+  {
+    "id": 860,
+    "word": "safari",
+    "meaning": "サファリ旅行"
+  },
+  {
+    "id": 861,
+    "word": "safeguard",
+    "meaning": "保護する、安全策"
+  },
+  {
+    "id": 862,
+    "word": "salmon",
+    "meaning": "サケ"
+  },
+  {
+    "id": 863,
+    "word": "salute",
+    "meaning": "敬礼する、敬意を表する"
+  },
+  {
+    "id": 864,
+    "word": "savage",
+    "meaning": "野蛮な、猛烈な"
+  },
+  {
+    "id": 865,
+    "word": "scan",
+    "meaning": "走査する"
+  },
+  {
+    "id": 866,
+    "word": "scenery",
+    "meaning": "景色"
+  },
+  {
+    "id": 867,
+    "word": "scrap",
+    "meaning": "くず、廃棄する"
+  },
+  {
+    "id": 868,
+    "word": "scrape",
+    "meaning": "こすり取る"
+  },
+  {
+    "id": 869,
+    "word": "script",
+    "meaning": "台本、文字"
+  },
+  {
+    "id": 870,
+    "word": "scrub",
+    "meaning": "ごしごし洗う"
+  },
+  {
+    "id": 871,
+    "word": "sculpture",
+    "meaning": "彫刻"
+  },
+  {
+    "id": 872,
+    "word": "scurvy",
+    "meaning": "壊血病"
+  },
+  {
+    "id": 873,
+    "word": "seal",
+    "meaning": "アザラシ、封印する"
+  },
+  {
+    "id": 874,
+    "word": "secured",
+    "meaning": "安全が確保された"
+  },
+  {
+    "id": 875,
+    "word": "seizure",
+    "meaning": "発作、押収"
+  },
+  {
+    "id": 876,
+    "word": "sensational",
+    "meaning": "センセーショナルな"
+  },
+  {
+    "id": 877,
+    "word": "sensitive",
+    "meaning": "敏感な"
+  },
+  {
+    "id": 878,
+    "word": "sentimental",
+    "meaning": "感傷的な"
+  },
+  {
+    "id": 879,
+    "word": "sequel",
+    "meaning": "続編"
+  },
+  {
+    "id": 880,
+    "word": "sermon",
+    "meaning": "説教"
+  },
+  {
+    "id": 881,
+    "word": "session",
+    "meaning": "会議、期間"
+  },
+  {
+    "id": 882,
+    "word": "sex",
+    "meaning": "性別、性行為"
+  },
+  {
+    "id": 883,
+    "word": "shard",
+    "meaning": "破片"
+  },
+  {
+    "id": 884,
+    "word": "shortfall",
+    "meaning": "不足額"
+  },
+  {
+    "id": 885,
+    "word": "showdown",
+    "meaning": "対決"
+  },
+  {
+    "id": 886,
+    "word": "shred",
+    "meaning": "細かく切る"
+  },
+  {
+    "id": 887,
+    "word": "shrinkage",
+    "meaning": "収縮"
+  },
+  {
+    "id": 888,
+    "word": "shrug",
+    "meaning": "肩をすくめる"
+  },
+  {
+    "id": 889,
+    "word": "shuttle",
+    "meaning": "往復便、送迎する"
+  },
+  {
+    "id": 890,
+    "word": "shy",
+    "meaning": "内気な"
+  },
+  {
+    "id": 891,
+    "word": "sibling",
+    "meaning": "きょうだい"
+  },
+  {
+    "id": 892,
+    "word": "sicken",
+    "meaning": "病気にする"
+  },
+  {
+    "id": 893,
+    "word": "similarly",
+    "meaning": "同様に"
+  },
+  {
+    "id": 894,
+    "word": "simmer",
+    "meaning": "ことこと煮る"
+  },
+  {
+    "id": 895,
+    "word": "simultaneously",
+    "meaning": "同時に"
+  },
+  {
+    "id": 896,
+    "word": "sincerity",
+    "meaning": "誠実さ"
+  },
+  {
+    "id": 897,
+    "word": "singular",
+    "meaning": "単数の、特異な"
+  },
+  {
+    "id": 898,
+    "word": "sizzle",
+    "meaning": "ジュージューいう"
+  },
+  {
+    "id": 899,
+    "word": "slant",
+    "meaning": "傾斜、傾ける"
+  },
+  {
+    "id": 900,
+    "word": "sly",
+    "meaning": "ずる賢い"
+  },
+  {
+    "id": 901,
+    "word": "smuggler",
+    "meaning": "密輸業者"
+  },
+  {
+    "id": 902,
+    "word": "snatch",
+    "meaning": "ひったくる"
+  },
+  {
+    "id": 903,
+    "word": "sneak",
+    "meaning": "こっそり入る"
+  },
+  {
+    "id": 904,
+    "word": "soak",
+    "meaning": "浸す"
+  },
+  {
+    "id": 905,
+    "word": "soar",
+    "meaning": "急上昇する"
+  },
+  {
+    "id": 906,
+    "word": "sob",
+    "meaning": "すすり泣く"
+  },
+  {
+    "id": 907,
+    "word": "sobriety",
+    "meaning": "しらふ、節制"
+  },
+  {
+    "id": 908,
+    "word": "socket",
+    "meaning": "差し込み口"
+  },
+  {
+    "id": 909,
+    "word": "sol",
+    "meaning": "太陽の一日、火星の一日"
+  },
+  {
+    "id": 910,
+    "word": "solar",
+    "meaning": "太陽の"
+  },
+  {
+    "id": 911,
+    "word": "solemn",
+    "meaning": "厳粛な"
+  },
+  {
+    "id": 912,
+    "word": "solemnity",
+    "meaning": "厳粛さ"
+  },
+  {
+    "id": 913,
+    "word": "solemnly",
+    "meaning": "厳粛に"
+  },
+  {
+    "id": 914,
+    "word": "soluble",
+    "meaning": "溶ける"
+  },
+  {
+    "id": 915,
+    "word": "sonar",
+    "meaning": "ソナー"
+  },
+  {
+    "id": 916,
+    "word": "sophistication",
+    "meaning": "洗練、複雑さ"
+  },
+  {
+    "id": 917,
+    "word": "soybean",
+    "meaning": "大豆"
+  },
+  {
+    "id": 918,
+    "word": "spacecraft",
+    "meaning": "宇宙船"
+  },
+  {
+    "id": 919,
+    "word": "spaceship",
+    "meaning": "宇宙船"
+  },
+  {
+    "id": 920,
+    "word": "spacious",
+    "meaning": "広々とした"
+  },
+  {
+    "id": 921,
+    "word": "sparkle",
+    "meaning": "きらめく"
+  },
+  {
+    "id": 922,
+    "word": "sparrow",
+    "meaning": "スズメ"
+  },
+  {
+    "id": 923,
+    "word": "spectator",
+    "meaning": "観客"
+  },
+  {
+    "id": 924,
+    "word": "sperm",
+    "meaning": "精子"
+  },
+  {
+    "id": 925,
+    "word": "spiteful",
+    "meaning": "意地悪な"
+  },
+  {
+    "id": 926,
+    "word": "spleen",
+    "meaning": "脾臓"
+  },
+  {
+    "id": 927,
+    "word": "splinter",
+    "meaning": "とげ、破片"
+  },
+  {
+    "id": 928,
+    "word": "spoiled",
+    "meaning": "甘やかされた、台無しの"
+  },
+  {
+    "id": 929,
+    "word": "spoken",
+    "meaning": "話し言葉の"
+  },
+  {
+    "id": 930,
+    "word": "sprain",
+    "meaning": "捻挫する"
+  },
+  {
+    "id": 931,
+    "word": "square",
+    "meaning": "正方形、広場"
+  },
+  {
+    "id": 932,
+    "word": "squid",
+    "meaning": "イカ"
+  },
+  {
+    "id": 933,
+    "word": "stack",
+    "meaning": "積み重ねる"
+  },
+  {
+    "id": 934,
+    "word": "stag",
+    "meaning": "雄ジカ"
+  },
+  {
+    "id": 935,
+    "word": "stain",
+    "meaning": "しみ、汚す"
+  },
+  {
+    "id": 936,
+    "word": "stale",
+    "meaning": "鮮度の落ちた"
+  },
+  {
+    "id": 937,
+    "word": "stamina",
+    "meaning": "持久力"
+  },
+  {
+    "id": 938,
+    "word": "stationary",
+    "meaning": "動かない、静止した"
+  },
+  {
+    "id": 939,
+    "word": "stealing",
+    "meaning": "盗み"
+  },
+  {
+    "id": 940,
+    "word": "steer",
+    "meaning": "操縦する、導く"
+  },
+  {
+    "id": 941,
+    "word": "stimulation",
+    "meaning": "刺激"
+  },
+  {
+    "id": 942,
+    "word": "stingy",
+    "meaning": "けちな"
+  },
+  {
+    "id": 943,
+    "word": "stoically",
+    "meaning": "平然と、禁欲的に"
+  },
+  {
+    "id": 944,
+    "word": "storage",
+    "meaning": "保管"
+  },
+  {
+    "id": 945,
+    "word": "stout",
+    "meaning": "がっしりした"
+  },
+  {
+    "id": 946,
+    "word": "strange",
+    "meaning": "奇妙な"
+  },
+  {
+    "id": 947,
+    "word": "strangle",
+    "meaning": "絞め殺す"
+  },
+  {
+    "id": 948,
+    "word": "stray",
+    "meaning": "道に迷った、はぐれる"
+  },
+  {
+    "id": 949,
+    "word": "striking",
+    "meaning": "目立つ、印象的な"
+  },
+  {
+    "id": 950,
+    "word": "stunned",
+    "meaning": "ぼう然とした"
+  },
+  {
+    "id": 951,
+    "word": "submerge",
+    "meaning": "水中に沈める"
+  },
+  {
+    "id": 952,
+    "word": "subsist",
+    "meaning": "生き延びる"
+  },
+  {
+    "id": 953,
+    "word": "subsistence",
+    "meaning": "生存、生活手段"
+  },
+  {
+    "id": 954,
+    "word": "substance",
+    "meaning": "物質、実体"
+  },
+  {
+    "id": 955,
+    "word": "substantially",
+    "meaning": "かなり、実質的に"
+  },
+  {
+    "id": 956,
+    "word": "subtlety",
+    "meaning": "微妙さ"
+  },
+  {
+    "id": 957,
+    "word": "subzero",
+    "meaning": "氷点下の"
+  },
+  {
+    "id": 958,
+    "word": "sufficiently",
+    "meaning": "十分に"
+  },
+  {
+    "id": 959,
+    "word": "suite",
+    "meaning": "一続きの部屋、ひと組"
+  },
+  {
+    "id": 960,
+    "word": "sulfur",
+    "meaning": "硫黄"
+  },
+  {
+    "id": 961,
+    "word": "summit",
+    "meaning": "頂上、首脳会議"
+  },
+  {
+    "id": 962,
+    "word": "sunny",
+    "meaning": "晴れた"
+  },
+  {
+    "id": 963,
+    "word": "super",
+    "meaning": "素晴らしい、超〜"
+  },
+  {
+    "id": 964,
+    "word": "supernatural",
+    "meaning": "超自然的な"
+  },
+  {
+    "id": 965,
+    "word": "supplementary",
+    "meaning": "補足の"
+  },
+  {
+    "id": 966,
+    "word": "supremacy",
+    "meaning": "優越、最高権力"
+  },
+  {
+    "id": 967,
+    "word": "sure",
+    "meaning": "確かな"
+  },
+  {
+    "id": 968,
+    "word": "surplus",
+    "meaning": "余剰"
+  },
+  {
+    "id": 969,
+    "word": "surprise",
+    "meaning": "驚き、驚かせる"
+  },
+  {
+    "id": 970,
+    "word": "surround",
+    "meaning": "囲む"
+  },
+  {
+    "id": 971,
+    "word": "suspect",
+    "meaning": "疑う、容疑者"
+  },
+  {
+    "id": 972,
+    "word": "sustainability",
+    "meaning": "持続可能性"
+  },
+  {
+    "id": 973,
+    "word": "swarm",
+    "meaning": "群れ"
+  },
+  {
+    "id": 974,
+    "word": "sweep",
+    "meaning": "掃く、押し流す"
+  },
+  {
+    "id": 975,
+    "word": "sweeping",
+    "meaning": "広範囲にわたる"
+  },
+  {
+    "id": 976,
+    "word": "swift",
+    "meaning": "素早い"
+  },
+  {
+    "id": 977,
+    "word": "swiftly",
+    "meaning": "素早く"
+  },
+  {
+    "id": 978,
+    "word": "synchronize",
+    "meaning": "同期させる"
+  },
+  {
+    "id": 979,
+    "word": "tactical",
+    "meaning": "戦術上の"
+  },
+  {
+    "id": 980,
+    "word": "tactics",
+    "meaning": "戦術"
+  },
+  {
+    "id": 981,
+    "word": "tamed",
+    "meaning": "飼いならされた"
+  },
+  {
+    "id": 982,
+    "word": "tariff",
+    "meaning": "関税"
+  },
+  {
+    "id": 983,
+    "word": "technical",
+    "meaning": "技術的な"
+  },
+  {
+    "id": 984,
+    "word": "temporarily",
+    "meaning": "一時的に"
+  },
+  {
+    "id": 985,
+    "word": "tempt",
+    "meaning": "誘惑する"
+  },
+  {
+    "id": 986,
+    "word": "tenant",
+    "meaning": "借家人"
+  },
+  {
+    "id": 987,
+    "word": "tender",
+    "meaning": "優しい、提出する"
+  },
+  {
+    "id": 988,
+    "word": "termination",
+    "meaning": "終了、解雇"
+  },
+  {
+    "id": 989,
+    "word": "terrestrial",
+    "meaning": "地球の、陸上の"
+  },
+  {
+    "id": 990,
+    "word": "texture",
+    "meaning": "質感、手触り"
+  },
+  {
+    "id": 991,
+    "word": "theft",
+    "meaning": "盗み"
+  },
+  {
+    "id": 992,
+    "word": "therefore",
+    "meaning": "それゆえ"
+  },
+  {
+    "id": 993,
+    "word": "thief",
+    "meaning": "泥棒"
+  },
+  {
+    "id": 994,
+    "word": "thorn",
+    "meaning": "とげ"
+  },
+  {
+    "id": 995,
+    "word": "throne",
+    "meaning": "王座"
+  },
+  {
+    "id": 996,
+    "word": "tickle",
+    "meaning": "くすぐる"
+  },
+  {
+    "id": 997,
+    "word": "timetable",
+    "meaning": "時刻表"
+  },
+  {
+    "id": 998,
+    "word": "timidity",
+    "meaning": "臆病さ"
+  },
+  {
+    "id": 999,
+    "word": "torch",
+    "meaning": "たいまつ、懐中電灯"
+  },
+  {
+    "id": 1000,
+    "word": "tornado",
+    "meaning": "竜巻"
+  },
+  {
+    "id": 1001,
+    "word": "touchy",
+    "meaning": "怒りっぽい"
+  },
+  {
+    "id": 1002,
+    "word": "tough",
+    "meaning": "頑丈な、困難な"
+  },
+  {
+    "id": 1003,
+    "word": "trafficking",
+    "meaning": "密売、人身売買"
+  },
+  {
+    "id": 1004,
+    "word": "traitor",
+    "meaning": "裏切り者"
+  },
+  {
+    "id": 1005,
+    "word": "tranquil",
+    "meaning": "穏やかな"
+  },
+  {
+    "id": 1006,
+    "word": "transcribe",
+    "meaning": "書き写す、文字に起こす"
+  },
+  {
+    "id": 1007,
+    "word": "transcript",
+    "meaning": "成績証明書、書き起こし"
+  },
+  {
+    "id": 1008,
+    "word": "transcription",
+    "meaning": "書き起こし、転写"
+  },
+  {
+    "id": 1009,
+    "word": "transform",
+    "meaning": "変形させる"
+  },
+  {
+    "id": 1010,
+    "word": "transitional",
+    "meaning": "移行期の"
+  },
+  {
+    "id": 1011,
+    "word": "tremendously",
+    "meaning": "非常に"
+  },
+  {
+    "id": 1012,
+    "word": "trim",
+    "meaning": "刈り込む、整える"
+  },
+  {
+    "id": 1013,
+    "word": "trip",
+    "meaning": "旅行、つまずく"
+  },
+  {
+    "id": 1014,
+    "word": "tropic",
+    "meaning": "熱帯"
+  },
+  {
+    "id": 1015,
+    "word": "unanimously",
+    "meaning": "満場一致で"
+  },
+  {
+    "id": 1016,
+    "word": "unavoidably",
+    "meaning": "避けられず"
+  },
+  {
+    "id": 1017,
+    "word": "unbiased",
+    "meaning": "偏見のない"
+  },
+  {
+    "id": 1018,
+    "word": "unclear",
+    "meaning": "不明瞭な"
+  },
+  {
+    "id": 1019,
+    "word": "unconditional",
+    "meaning": "無条件の"
+  },
+  {
+    "id": 1020,
+    "word": "unconventional",
+    "meaning": "型破りな"
+  },
+  {
+    "id": 1021,
+    "word": "uncover",
+    "meaning": "明らかにする、覆いを取る"
+  },
+  {
+    "id": 1022,
+    "word": "undamaged",
+    "meaning": "損傷していない"
+  },
+  {
+    "id": 1023,
+    "word": "undeniable",
+    "meaning": "否定できない"
+  },
+  {
+    "id": 1024,
+    "word": "underfed",
+    "meaning": "栄養不足の"
+  },
+  {
+    "id": 1025,
+    "word": "undergraduate",
+    "meaning": "大学生、学部生"
+  },
+  {
+    "id": 1026,
+    "word": "underlying",
+    "meaning": "根底にある"
+  },
+  {
+    "id": 1027,
+    "word": "underrate",
+    "meaning": "過小評価する"
+  },
+  {
+    "id": 1028,
+    "word": "understand",
+    "meaning": "理解する"
+  },
+  {
+    "id": 1029,
+    "word": "unethical",
+    "meaning": "非倫理的な"
+  },
+  {
+    "id": 1030,
+    "word": "unfurnished",
+    "meaning": "家具のない"
+  },
+  {
+    "id": 1031,
+    "word": "unlawful",
+    "meaning": "違法な"
+  },
+  {
+    "id": 1032,
+    "word": "unlimited",
+    "meaning": "無制限の"
+  },
+  {
+    "id": 1033,
+    "word": "unorthodox",
+    "meaning": "型破りな"
+  },
+  {
+    "id": 1034,
+    "word": "unperturbed",
+    "meaning": "動じない"
+  },
+  {
+    "id": 1035,
+    "word": "unpleasant",
+    "meaning": "不快な"
+  },
+  {
+    "id": 1036,
+    "word": "unsound",
+    "meaning": "不健全な"
+  },
+  {
+    "id": 1037,
+    "word": "unveil",
+    "meaning": "発表する、ベールを取る"
+  },
+  {
+    "id": 1038,
+    "word": "unwarranted",
+    "meaning": "不当な、正当な理由のない"
+  },
+  {
+    "id": 1039,
+    "word": "unwholesome",
+    "meaning": "不健全な、不健康な"
+  },
+  {
+    "id": 1040,
+    "word": "upbringing",
+    "meaning": "育てられ方"
+  },
+  {
+    "id": 1041,
+    "word": "upcoming",
+    "meaning": "今度の"
+  },
+  {
+    "id": 1042,
+    "word": "updated",
+    "meaning": "更新された"
+  },
+  {
+    "id": 1043,
+    "word": "upgrade",
+    "meaning": "改良する、格上げ"
+  },
+  {
+    "id": 1044,
+    "word": "uproot",
+    "meaning": "根こそぎにする"
+  },
+  {
+    "id": 1045,
+    "word": "uptight",
+    "meaning": "緊張した、堅苦しい"
+  },
+  {
+    "id": 1046,
+    "word": "upturn",
+    "meaning": "好転、上昇"
+  },
+  {
+    "id": 1047,
+    "word": "utensil",
+    "meaning": "器具、道具"
+  },
+  {
+    "id": 1048,
+    "word": "utility",
+    "meaning": "有用性、公共事業"
+  },
+  {
+    "id": 1049,
+    "word": "utilize",
+    "meaning": "利用する"
+  },
+  {
+    "id": 1050,
+    "word": "vacate",
+    "meaning": "立ち退く"
+  },
+  {
+    "id": 1051,
+    "word": "vacuum",
+    "meaning": "真空、掃除機"
+  },
+  {
+    "id": 1052,
+    "word": "variable",
+    "meaning": "変数、変わりやすい"
+  },
+  {
+    "id": 1053,
+    "word": "vegetation",
+    "meaning": "植物、植生"
+  },
+  {
+    "id": 1054,
+    "word": "venture",
+    "meaning": "危険を冒す、事業"
+  },
+  {
+    "id": 1055,
+    "word": "venue",
+    "meaning": "会場"
+  },
+  {
+    "id": 1056,
+    "word": "vocal",
+    "meaning": "声の、声楽の"
+  },
+  {
+    "id": 1057,
+    "word": "vomit",
+    "meaning": "吐く"
+  },
+  {
+    "id": 1058,
+    "word": "voucher",
+    "meaning": "引換券"
+  },
+  {
+    "id": 1059,
+    "word": "vulture",
+    "meaning": "ハゲワシ"
+  },
+  {
+    "id": 1060,
+    "word": "wag",
+    "meaning": "振る、しっぽを振る"
+  },
+  {
+    "id": 1061,
+    "word": "walnut",
+    "meaning": "クルミ"
+  },
+  {
+    "id": 1062,
+    "word": "warehouse",
+    "meaning": "倉庫"
+  },
+  {
+    "id": 1063,
+    "word": "warranted",
+    "meaning": "正当な、保証された"
+  },
+  {
+    "id": 1064,
+    "word": "warrior",
+    "meaning": "戦士"
+  },
+  {
+    "id": 1065,
+    "word": "weaponry",
+    "meaning": "兵器類"
+  },
+  {
+    "id": 1066,
+    "word": "weapons",
+    "meaning": "武器"
+  },
+  {
+    "id": 1067,
+    "word": "wetland",
+    "meaning": "湿地"
+  },
+  {
+    "id": 1068,
+    "word": "wholesale",
+    "meaning": "卸売り"
+  },
+  {
+    "id": 1069,
+    "word": "wholesaler",
+    "meaning": "卸売業者"
+  },
+  {
+    "id": 1070,
+    "word": "wholesome",
+    "meaning": "健康によい、健全な"
+  },
+  {
+    "id": 1071,
+    "word": "width",
+    "meaning": "幅"
+  },
+  {
+    "id": 1072,
+    "word": "wildfire",
+    "meaning": "山火事"
+  },
+  {
+    "id": 1073,
+    "word": "workforce",
+    "meaning": "労働力"
+  },
+  {
+    "id": 1074,
+    "word": "workout",
+    "meaning": "運動、練習"
+  },
+  {
+    "id": 1075,
+    "word": "workshop",
+    "meaning": "作業場、研修会"
+  },
+  {
+    "id": 1076,
+    "word": "wreckage",
+    "meaning": "残骸"
+  },
+  {
+    "id": 1077,
+    "word": "wrinkle",
+    "meaning": "しわ、しわを寄せる"
+  },
+  {
+    "id": 1078,
+    "word": "written",
+    "meaning": "書かれた、文書の"
+  }
+]
